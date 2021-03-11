@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :Jesús Navarro Merino:   AA     :octocat:     
- * :Ángel Solano Corral:  BB     :octocat:
+ * Jesús Navarro Merino:    :octocat: (@Jesnm01)    
+ * Ángel Solano Corral:     :octocat: (@angelsc21)
 
 ----- 
 
