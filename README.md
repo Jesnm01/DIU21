@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * Jesús Navarro Merino:    :octocat: (@Jesnm01)    
- * Ángel Solano Corral:     :octocat: (@angelsc21)
+ * :bust_in_silhouette:   Jesús Navarro Merino   :octocat: ([@Jesnm01](https://github.com/Jesnm01))
+ * :bust_in_silhouette:  Ángel Solano Corral     :octocat: ([@angelsc21](https://github.com/angelsc21))
 
 ----- 
 
