@@ -33,7 +33,7 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Pedro",
+				Name: "Pedro Álvarez",
 				Photo: "man.png",
 				Quote: "La vida es buena por sólo dos cosas, descubrir y enseñar las matemáticas. – Simeon Poisson",
 				Age: 55,
