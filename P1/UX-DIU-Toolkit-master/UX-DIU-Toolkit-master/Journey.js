@@ -34,54 +34,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Pedro Álvarez",
+                Photo: "pedro.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                goal1: "Tiene un par de semanas libres del trabajo, y quiere organizar un viaje con su familia",
+                touch1: "familia",
+                feel1: "5",
+                con1: "Tiene claro el destino, pero no sabe muy bien que actividades se pueden hacer allí",
+                ima1: "cartoon-writting2.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Busca en internet paginas que organicen actividades y planifiquen itinerarios",
+                touch2: "ordenador",
+                feel2: "3",
+                con2: "Hay muchas páginas similares y no sabe cúal podría ser mejor",
+                ima2: "cartoon-PCtyping.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Se decide por una web en la que ofertan diversos tours y actividades en grupo",
+                touch3: "web (civitatis)",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                con3: "Comparar las opciones que se ofrecen, viendo precios y reseñas de otras personas",
+                ima3: "cartoon-looking.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
+
+                goal4: "Descubre que existe una aplicacion para el movil para controlar tus reservas y planes",
+                touch4: "móvil (app)",
+                feel4: "3",
+                con4: "Tiene que crearse una cuenta de usuario, y la aplicacion en el movil no se ve muy bien, por lo que no se aclara",
+                ima4: "cartoon-phone.png",
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
+                goal5: "Hay varias actividades que tienen buena pinta y quiere reservarlas",
+                touch5: "web (civitatis)",
                 feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                con5: "Tener que compaginar las fechas de las actividades con los vuelos ya que esta página no los incluye",
+                ima5: "cartoon-PChard.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                goal6: "Consigue reservar las actividades que quería menos una que no había fechas disponibles",
+                touch6: "familia",
+                feel6: "4",
+                con6: "Aunque espera que vaya bien, le preocupa un poco que a sus hijos no les guste el viaje",
                 ima6: "cartoon-resting.png",
                 
 			},
