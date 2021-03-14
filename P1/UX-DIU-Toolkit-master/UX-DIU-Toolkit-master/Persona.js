@@ -34,8 +34,8 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Pedro Álvarez",
-				Photo: "man.png",
-				Quote: "La vida es buena por sólo dos cosas, descubrir y enseñar las matemáticas. – Simeon Poisson",
+				Photo: "pedro.jpg",
+				Quote: "La belleza de las matemáticas solo se muestra a los seguidores más pacientes.",
 				Age: 55,
 				Occupation: "Profesor de matemáticas.",
 				Family: "20 años casado con su mujer Carmen y con 2 hijos (Javier y Alejandra).",
