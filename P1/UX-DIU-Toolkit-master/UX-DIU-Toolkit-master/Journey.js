@@ -93,54 +93,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Irene Pérez",
                 Photo: "woman.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
+                goal1: "Quiere realizar un viaje con sus amigas, duración máxima 2 semanas y precio inferior a los 60€",
                 touch1: "agenda",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                con1: "Quiere a un país de otro continente con ambiente universitario",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
+                goal2: "Empieza buscar en internet distintas páginas webs que oferten viajes",
                 touch2: "Servicio (agencia)",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                con2: "No sabe que página elegir y desconfía de las ofertas más baratas porque no sabe si son un timo o no",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
+                goal3: "Ante la indecesión, pregunta a su círculo cercano y le recomiendan que escoja el viaje fuera de temporada dado que es más barato",
+                touch3: "Móvil (Whatsapp)",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                con3: "Piensa que ha perdido el tiempo buscando viajes sin tener un objetivo claro ni dónde buscar",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
+                goal4: "Busca cuáles son las mejores webs e investiga viajes en sus destinos preferentes fuera de fecha",
                 touch4: "Móvil (webapp)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                con4: "No hay mucha información sobre los destinos en la página, le permiten hacer la reserva de vuelo y alojamiento en la misma web pero desconoce experiencias de otros usuarios",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
+                goal5: "Tras decidir el destino con sus compañeras, realizan la reserva viaje ",
                 touch5: "Móvil (webapp)",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                con5: "El formulario es tedioso y pide muchos datos difíciles de buscar",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
+                goal6: "Por fin consiguen finalizar la reserva y disponer del viaje que habían acordado. No se ha quedado muy contenta con la experiencia de búsqueda y reserva además de que le hubiera gustado contar con valoraciones de otros viajer@s",
                 touch6: "Ordenador (reserva OK)",
                 feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
+                con6: "Buscará en foros ayuda sobre a qué sitios acudir, restaurantes recomendados del lugar, que ropa llevar, etc.",
                 ima6: "cartoon-PChard.png",
                 
                 
