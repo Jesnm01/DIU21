@@ -9,7 +9,6 @@
 - Revisión de Usabilidad 
 
 
-(valoración y conclusiones de esta etapa)
 
 # Proceso de Diseño 
 
