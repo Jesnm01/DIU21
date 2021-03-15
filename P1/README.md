@@ -27,30 +27,23 @@ Por último, encontramos la web Civitatis, que además posee una app para móvil
 
 Tabla comparativa de los casos estudiados:
 
-|EMPRESAS                        | SpainInfo     | Civitatis   | BuscoUnViaje  | 
-| :------:                       | :------:      | :------:    |  :------:     | 
-| Formato                        | Solo Web      |  Web y App  |   Solo Web    | 
-| Búsqueda por:                  |               |             |               |
-| *Temática*                     | SI            |  SI         |      SI       |
-| *Duración*                     | SI            |  SI         |      NO       |
-| *Fecha*                        | SI            |  SI         |      SI       |
-| *Precio*                       | SI            |  SI         |      SI       | 
-| *Lugar*                        | SI            |  SI         |      SI       |
-| *Opción Grupo/Privado/Libre*   | NO            |  No         |      SI       |
+|EMPRESAS                        | SpainInfo     | Civitatis     | BuscoUnViaje  | 
+| :------:                       | :------:      | :------:      |  :------:     | 
+| Formato                        | Solo Web      |  Web y App    |   Solo Web    | 
+| Búsqueda por:                  |               |               |               |
+| *Temática*                     | Si            |  Si           |      Si       |
+| *Duración*                     | Si            |  Si           |      No       |
+| *Fecha*                        | Si            |  Si           |      Si       |
+| *Precio*                       | Si            |  Si           |      Si       | 
+| *Lugar*                        | Si            |  Si           |      Si       |
+| *Opción Grupo/Privado/Libre*   | No            |  No           |      Si       |
+| Reserva                        | Web Externa   |  Misma página |  Web Externa  |
+| Gratuito & Pago                | Ambas         |  Ambas        |     Ambas     |
+| Elegir Número de personas      | No            |  Si           |      Si       |
+| Fotografías Eventos            | Si            |  Si           |      Si       |
+| Reseñas                        | No            |  Si           |      Si       |
+| Contacto                       | Enviar formulario |  Si           |      Si       |
 
-
-
-
-
-
-| Más de un idiomas              | SI              |  SI      |     SI    | SI       | SI          | NO       |  SI        |
-| web                            | SI              |  SI      |     SI    | SI       | SI          | NO       |  NO        |
-| Android                        | SI              |  NO      |     SI    | SI       | SI          | NO       |  SI        |
-| iOS                            | SI              |  NO      |     SI    | SI       | NO          | NO       |  SI        |
-| Proximidad de interlocutores   | SI              |  NO      |     NO    | NO       | NO          | NO       |  SI        |
-| Videoconferencia               | NO              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Chat                           | SI              |  SI      |     SI    | SI       | SI          | SI       |  SI        |
-| Herramientas lingüísticas      | NO              |  SI      |     SI    | SI       | SI          | NO       |  SI        |
 
 
 
