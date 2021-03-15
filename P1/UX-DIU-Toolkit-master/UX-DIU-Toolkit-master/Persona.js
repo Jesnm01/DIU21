@@ -75,7 +75,7 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Irene Pérez",
-				Photo: "woman.png",
+				Photo: "irene.jpg",
 				Quote: " La medicina es el arte de disputar los hombres a la muerte de hoy, para cedérselos en mejor estado, un poco más tarde. (Noel Clarasó)",
 				Age: 22,
 				Occupation: "Estudiante",

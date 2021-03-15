@@ -94,54 +94,54 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Irene Pérez",
-                Photo: "woman.png",
+                Photo: "irene.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere realizar un viaje con sus amigas, duración máxima 2 semanas y precio inferior a los 60€",
+                goal1: "Quiere realizar un viaje con sus amigas, duración máxima 2 semanas y precio inferior a los 600€",
                 touch1: "agenda",
                 feel1: "5",
-                con1: "Quiere a un país de otro continente con ambiente universitario",
-                ima1: "cartoon-going.png",
+                con1: "El viaje tiene que ser a un país de otro continente y hacer actividades de carácter universtario",
+                ima1: "cartoon-writting2.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Empieza buscar en internet distintas páginas webs que oferten viajes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
+                goal2: "Empieza buscar en internet distintas páginas webs que oferten actividades en la lista de destinos a los que le gustaría viajar",
+                touch2: "Ordenador (webapp)",
+                feel2: "2",
                 con2: "No sabe que página elegir y desconfía de las ofertas más baratas porque no sabe si son un timo o no",
-                ima2: "cartoon-teamthinking.png",
+                ima2: "cartoon-deciding.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
                 goal3: "Ante la indecesión, pregunta a su círculo cercano y le recomiendan que escoja el viaje fuera de temporada dado que es más barato",
                 touch3: "Móvil (Whatsapp)",
-                feel3: "2",
+                feel3: "3",
                 con3: "Piensa que ha perdido el tiempo buscando viajes sin tener un objetivo claro ni dónde buscar",
-                ima3: "cartoon-phoningangry.png",
+                ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca cuáles son las mejores webs e investiga viajes en sus destinos preferentes fuera de fecha",
-                touch4: "Móvil (webapp)",
+                goal4: "Busca cuáles son las mejores webs, acaba descargándose la app de civitatis y comienza la búsqueda de actividades en esta plataforma",
+                touch4: "Ordenador (webapp), Móvil (app)",
                 feel4: "2",
-                con4: "No hay mucha información sobre los destinos en la página, le permiten hacer la reserva de vuelo y alojamiento en la misma web pero desconoce experiencias de otros usuarios",
-                ima4: "cartoon-phone-street.png",
+                con4: "Se da cuenta de que en esta aplicación no puedes reservar el vuelo, solamente actividades una vez que estés en el destino",
+                ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Tras decidir el destino con sus compañeras, realizan la reserva viaje ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "El formulario es tedioso y pide muchos datos difíciles de buscar",
+                goal5: "Tras decidir el destino con sus compañeras, realizan la reserva viaje en vueling y las actividades mediante la app de civitatis",
+                touch5: "Móvil (webapp), Móvil (app)",
+                feel5: "5",
+                con5: "El formulario de Civitatis es sencillo y le da muchas soluciones para cualquier tipo de problema.",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Por fin consiguen finalizar la reserva y disponer del viaje que habían acordado. No se ha quedado muy contenta con la experiencia de búsqueda y reserva además de que le hubiera gustado contar con valoraciones de otros viajer@s",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Buscará en foros ayuda sobre a qué sitios acudir, restaurantes recomendados del lugar, que ropa llevar, etc.",
-                ima6: "cartoon-PChard.png",
+                goal6: "Por fin consiguen finalizar la reserva y disponer del viaje que habían acordado. No se ha quedado muy contenta con la experiencia de búsqueda y reserva debido a que ha tenido que reservar el vuelo en una web y las actividades en otra plataforma",
+                touch6: "Ordenador (webapp), Móvil (app), Amigas",
+                feel6: "4",
+                con6: "Aunque ha terminado satisfecha, puede que la próxima vez que decida realizar un viaje, busque más exhaustivamente y se decida por plataformas que combinen viaje+actividades",
+                ima6: "cartoon-why.png",
                 
                 
                 
