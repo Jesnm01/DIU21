@@ -42,12 +42,13 @@ Tabla comparativa de los casos estudiados:
 | Elegir Número de personas       | No                |  Si                  | Si            |
 | Fotografías Eventos             | Si                |  Si                  | Si            |
 | Reseñas                         | No                |  Si                  | Si            |
-| Contacto                        | Enviar formulario |  Enviar Formulario   | Numero Telefono o Enviar formulario       |
+| Contacto                        | Enviar formulario |  Enviar Formulario   | Nº Telefono o Enviar formulario       |
 | Idiomas                         | 8 disponibles     |  4 disponibles       | Solo español  |
 | Cuenta                          | No                |  Si                  | No            |
 | Aparencia                       | Compleja          |  Sencilla            | Sencilla      |
 | Conversion Moneda               | No                |  Si                  | No            |
 
+Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los demás portales y tiene ventajas únicas. Entre ellas encontramos a nuestra disposición una app para móvil, cuenta propia dentro de la página, poder reservar en la propia página sin que nos redirija a un dominio externo, conversión a moneda y una web amigable en la que es fácil navegar para cualquier tipo de usuario.
 
 
 
