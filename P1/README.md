@@ -64,9 +64,9 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 
 ![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
-![Journey1](imagenes/map_pedro.png)
+![Journey1](imagenes/viaje_pedro.png)
 
-![Journey2](imagenes/map_irene.png)
+![Journey2](imagenes/viaje_irene.png)
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
