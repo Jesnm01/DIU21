@@ -27,22 +27,26 @@ Por último, encontramos la web Civitatis, que además posee una app para móvil
 
 Tabla comparativa de los casos estudiados:
 
-|EMPRESAS                        | SpainInfo     | Civitatis     | BuscoUnViaje  | 
-| :------:                       | :------:      | :------:      |  :------:     | 
-| Formato                        | Solo Web      |  Web y App    |   Solo Web    | 
-| Búsqueda por:                  |               |               |               |
-| *Temática*                     | Si            |  Si           |      Si       |
-| *Duración*                     | Si            |  Si           |      No       |
-| *Fecha*                        | Si            |  Si           |      Si       |
-| *Precio*                       | Si            |  Si           |      Si       | 
-| *Lugar*                        | Si            |  Si           |      Si       |
-| *Opción Grupo/Privado/Libre*   | No            |  No           |      Si       |
-| Reserva                        | Web Externa   |  Misma página |  Web Externa  |
-| Gratuito & Pago                | Ambas         |  Ambas        |     Ambas     |
-| Elegir Número de personas      | No            |  Si           |      Si       |
-| Fotografías Eventos            | Si            |  Si           |      Si       |
-| Reseñas                        | No            |  Si           |      Si       |
-| Contacto                       | Enviar formulario |  Si           |      Si       |
+|EMPRESAS                         | SpainInfo         | Civitatis            | BuscoUnViaje  | 
+| :------:                        | :------:          | :------:             |  :------:     | 
+| Formato                         | Solo Web          |  Web y App           |   Solo Web    | 
+| Búsqueda por:                   |                   |                      |               |
+| -*Temática*                     | Si                |  Si                  | Si            |
+| -*Duración*                     | Si                |  Si                  | No            |
+| -*Fecha*                        | Si                |  Si                  | Si            |
+| -*Precio*                       | Si                |  Si                  | Si            | 
+| -*Lugar*                        | Si                |  Si                  | Si            |
+| -*Opción Grupo/Privado/Libre*   | No                |  No                  | Si            |
+| Reserva                         | Web Externa       |  Misma página        | Web Externa   |
+| Gratuito & Pago                 | Ambas             |  Ambas               | Ambas         |
+| Elegir Número de personas       | No                |  Si                  | Si            |
+| Fotografías Eventos             | Si                |  Si                  | Si            |
+| Reseñas                         | No                |  Si                  | Si            |
+| Contacto                        | Enviar formulario |  Enviar Formulario   | Numero Telefono o Enviar formulario       |
+| Idiomas                         | 8 disponibles     |  4 disponibles       | Solo español  |
+| Cuenta                          | No                |  Si                  | No            |
+| Aparencia                       | Compleja          |  Sencilla            | Sencilla      |
+| Conversion Moneda               | No                |  Si                  | No            |
 
 
 
