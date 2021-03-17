@@ -25,9 +25,15 @@
 
   Por último, nos encontramos con BuscoUnViaje, en la cual se abarca una posibilidad de destinos global y nos permite compartir la    experiencia adaptándonos a un grupo, en la mayoría de ocasiones con un guía privado. Realmente podemos ver a esta plataforma      como punto de encuentro del usuario con las agencias especializadas en algún viaje/destino o actividad/experiencia concreta, de   manera que facilita la interacción entre el usuario y estas.
 
-   Por último, encontramos la web Civitatis, que además posee una app para móvil. Podemos acceder a una amplia gama de viajes y     guías de viajes por todo el mundo para viajar en grupo o por tu cuenta. Así como experiencias o actividades de casi cualquier     temática, desde free tours, excursiones, visitas guiadas, paseos en barco, autobuses turísticos, espectáculos, experiencias       gastronómicas o incluso darte una vuelta en helicóptero.
+   Por último, encontramos la web Civitatis, que además posee una app para móvil. Podemos acceder a una amplia gama de viajes y     guías de viajes por todo el mundo para viajar en grupo o por tu cuenta. Así como experiencias o actividades de casi cualquier temática, desde free tours, excursiones, visitas guiadas, paseos en barco, autobuses turísticos, espectáculos, experiencias       gastronómicas o incluso darte una vuelta en helicóptero.
 
 </p>
+
+<p align="justify">
+  
+  Hola me llamo manuel, tengo 13 años adsfasdfds d afdsfsad fdsa fdsaf dsaf dsf afas fsadfdsaaaaaaaaaaaaaaaaf dsaf dsfsda fdsaf dsafds afds adf sadfsdaf dsaf dsafdsa fdsa fdsaf dsaf dsaf asdf dsaf dsaf dsafasdfasdfdsakfkdsafsdfdsafdsafasssssssssssfasdf  sfsfsf sdf sdf dsfdsfksafkdsk fdsakfk dsafkdsak faksdfk dskf kds kfdskf kasfk dsakf skadf ksdafk sdakf sadkf sakdf kdsafk sa fksakf sakf dsakfsak fksak fdsakf kdsaf ksafk dsakf dsak fasd fdsaf saf ds
+  
+ </p>
 
 Tabla comparativa de los casos estudiados:
 
