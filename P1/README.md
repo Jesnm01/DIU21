@@ -48,19 +48,20 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 
 ![Método UX](../img/Persona.png) 1.b Persona
 -----
+Por un lado tenemos a Pedro, una persona calmada y muy dedicada en su trabajo, con ganas de tomar un descanso y pasar tiempo con su familia. No tiene mucho manejo con las tecnologias aparte de lo necesario para su trabajo, por lo que será un obstáculo que tendrá que superar en este proceso.
 ![Persona1](imagenes/bio_pedro.png)
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+En el caso de Irene tenemos un perfil algo distinto al anterior. Aún estudiante, y tieniendo toda la vida por delante se decide a hacer planes con sus compañeras de piso y conocer mundo. Algo impaciente e impulsiva, aunque con más experiencia en tecnologías y redes sociales que Pedro.
 ![Persona2](imagenes/bio_irene.png)
 
 ![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
+Ambas experiencias se parecen en rasgos generales, pues los 2 al final consiguen su objetivo final. Pero Pedro opta por utilizar la web, mientras que Irene vé más cómodo planear todo desde la app del móvil. Algo en lo que coinciden, y seguramente la mayoria de usuarios también, es que no les gusta tener que gestionar el traslado aparte.
+
 ![Journey1](imagenes/viaje_pedro.png)
 
 ![Journey2](imagenes/viaje_irene.png)
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Usability_review](../img/usabilityReview.png) 1.d Usability Review
 ----
