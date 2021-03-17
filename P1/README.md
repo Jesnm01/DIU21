@@ -16,16 +16,17 @@
 
 ![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
-<p align="center">
+<p align="justify">
+  
   Hemos analizado un total de 3 plataformas de experiencias y planificación de ocio:
 
-  Por un lado tenemos a SpainInfo, que es una web que se dedica a la planificación de viajes, rutas, y posibles itinerarios que     podrían interesarle al usuario, centrada exclusivamente en el territorio español. Más bien es una página informativa con todo lo    relacionado a cómo organizar tu viaje, posibles destinos, y propuestas de viaje en España.
+  Por un lado tenemos a SpainInfo, que es una web que se dedica a la planificación de viajes, rutas, y posibles itinerarios que podrían interesarle al usuario, centrada exclusivamente en el territorio español. Más bien es una página informativa con todo lo relacionado a cómo organizar tu viaje, posibles destinos, y propuestas de viaje en España.
 
-  Otra web interesante es la de Civitatis, que además posee una app para móvil. Podemos acceder a una amplia gama de viajes y       guías de viajes por todo el mundo para viajar en grupo o por tu cuenta. Así como experiencias o actividades de casi cualquier     temática, desde free tours, excursiones, visitas guiadas, paseos en barco, autobuses turísticos, espectáculos, experiencias       gastronómicas o incluso darte una vuelta en helicóptero.
+  Otra web interesante es la de Civitatis, que además posee una app para móvil. Podemos acceder a una amplia gama de viajes y guías de viajes por todo el mundo para viajar en grupo o por tu cuenta. Así como experiencias o actividades de casi cualquier temática, desde free tours, excursiones, visitas guiadas, paseos en barco, autobuses turísticos, espectáculos, experiencias gastronómicas o incluso darte una vuelta en helicóptero.
 
-  Por último, nos encontramos con BuscoUnViaje, en la cual se abarca una posibilidad de destinos global y nos permite compartir la    experiencia adaptándonos a un grupo, en la mayoría de ocasiones con un guía privado. Realmente podemos ver a esta plataforma      como punto de encuentro del usuario con las agencias especializadas en algún viaje/destino o actividad/experiencia concreta, de   manera que facilita la interacción entre el usuario y estas.
+  Por último, nos encontramos con BuscoUnViaje, en la cual se abarca una posibilidad de destinos global y nos permite compartir la    experiencia adaptándonos a un grupo, en la mayoría de ocasiones con un guía privado. Realmente podemos ver a esta plataforma como punto de encuentro del usuario con las agencias especializadas en algún viaje/destino o actividad/experiencia concreta, de manera que facilita la interacción entre el usuario y estas.
 
-   Por último, encontramos la web Civitatis, que además posee una app para móvil. Podemos acceder a una amplia gama de viajes y     guías de viajes por todo el mundo para viajar en grupo o por tu cuenta. Así como experiencias o actividades de casi cualquier temática, desde free tours, excursiones, visitas guiadas, paseos en barco, autobuses turísticos, espectáculos, experiencias       gastronómicas o incluso darte una vuelta en helicóptero.
+   Por último, encontramos la web Civitatis, que además posee una app para móvil. Podemos acceder a una amplia gama de viajes y guías de viajes por todo el mundo para viajar en grupo o por tu cuenta. Así como experiencias o actividades de casi cualquier temática, desde free tours, excursiones, visitas guiadas, paseos en barco, autobuses turísticos, espectáculos, experiencias gastronómicas o incluso darte una vuelta en helicóptero.
 
 </p>
 
