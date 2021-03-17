@@ -29,12 +29,6 @@
 
 </p>
 
-<p align="justify">
-  
-  Hola me llamo manuel, tengo 13 años adsfasdfds d afdsfsad fdsa fdsaf dsaf dsf afas fsadfdsaaaaaaaaaaaaaaaaf dsaf dsfsda fdsaf dsafds afds adf sadfsdaf dsaf dsafdsa fdsa fdsaf dsaf dsaf asdf dsaf dsaf dsafasdfasdfdsakfkdsafsdfdsafdsafasssssssssssfasdf  sfsfsf sdf sdf dsfdsfksafkdsk fdsakfk dsafkdsak faksdfk dskf kds kfdskf kasfk dsakf skadf ksdafk sdakf sadkf sakdf kdsafk sa fksakf sakf dsakfsak fksak fdsakf kdsaf ksafk dsakf dsak fasd fdsaf saf ds
-  
- </p>
-
 Tabla comparativa de los casos estudiados:
 
 |EMPRESAS                         | SpainInfo         | Civitatis            | BuscoUnViaje  | 
