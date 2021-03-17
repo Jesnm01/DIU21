@@ -16,7 +16,7 @@
 
 ![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
-<p align="center">
+<p align="right">
 Hemos analizado un total de 3 plataformas de experiencias y planificación de ocio:
 
 Por un lado tenemos a SpainInfo, que es una web que se dedica a la planificación de viajes, rutas, y posibles itinerarios que podrían interesarle al usuario, centrada exclusivamente en el territorio español. Más bien es una página informativa con todo lo relacionado a cómo organizar tu viaje, posibles destinos, y propuestas de viaje en España.
