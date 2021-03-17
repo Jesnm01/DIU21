@@ -48,10 +48,10 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 
 ![Método UX](../img/Persona.png) 1.b Persona
 -----
-Por un lado tenemos a Pedro, una persona calmada y muy dedicada en su trabajo, con ganas de tomar un descanso y pasar tiempo con su familia. No tiene mucho manejo con las tecnologias aparte de lo necesario para su trabajo, por lo que será un obstáculo que tendrá que superar en este proceso.
+<p align="justify">Por un lado tenemos a Pedro, una persona calmada y muy dedicada en su trabajo, con ganas de tomar un descanso y pasar tiempo con su familia. No tiene mucho manejo con las tecnologias aparte de lo necesario para su trabajo, por lo que será un obstáculo que tendrá que superar en este proceso.</p><br>
 ![Persona1](imagenes/bio_pedro.png)
 
-En el caso de Irene tenemos un perfil algo distinto al anterior. Aún estudiante, y tieniendo toda la vida por delante se decide a hacer planes con sus compañeras de piso y conocer mundo. Algo impaciente e impulsiva, aunque con más experiencia en tecnologías y redes sociales que Pedro.
+<p align="justify">En el caso de Irene tenemos un perfil algo distinto al anterior. Aún estudiante, y tieniendo toda la vida por delante se decide a hacer planes con sus compañeras de piso y conocer mundo. Algo impaciente e impulsiva, aunque con más experiencia en tecnologías y redes sociales que Pedro.</p><br>
 ![Persona2](imagenes/bio_irene.png)
 
 ![Método UX](../img/JourneyMap.png) 1.c User Journey Map
