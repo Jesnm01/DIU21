@@ -71,7 +71,7 @@ Ambas experiencias se parecen en rasgos generales, pues los 2 al final consiguen
 
 >>>  - Enlace al documento pdf: [pulse aqui](https://github.com/angelsc21/DIU21/blob/master/P1/Usability-review.pdf) 
 
->>>  - Valoración final: 80
+>>>  - Valoración final: 79
 >>>  - Comentario sobre la valoración:
 >>>  
 >>>  <h3>Características y Funcionalidad:</h3>
