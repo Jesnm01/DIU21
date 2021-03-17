@@ -89,7 +89,7 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  </p>
 >>> <h3>Control y  Feedback:</h3>
 >>>  <p align="justify">
->>>    Las respuestas son rápidas y pertinentes. Es fácil deshacer acciones erróneas y se puede contactar por email. Aquí se echa de menos un número de contacto o un asistente en línea.
+>>>    Las respuestas son rápidas y pertinentes. Es fácil deshacer acciones erróneas y se puede contactar por email. Aquí se echa de menos un número de contacto (a la vista) o un asistente en línea.
 >>>  </p>
 >>>  <h3>Formularios:</h3>
 >>>  <p align="justify">
@@ -105,7 +105,7 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  </p>
 >>>  <h3>Ayuda:</h3>
 >>>  <p align="justify">
->>>    Es uno de los puntos a mejorar por esta web. La ayuda es insuficiente y poco variada. Únicamente poseen de un listado de preguntas frecuentes y un formulario que se envía por email. Por otra parte, la ayuda es bastante accesible y te permite seguir navegando ya que se presenta en modo de pop-up.
+>>>    Es uno de los puntos a mejorar por esta web. La ayuda es insuficiente y poco variada. Únicamente poseen de un listado de preguntas frecuentes y un formulario que se envía por email a la vista (el tlf y chat de telegram están muy escondidos). Por otra parte, la ayuda es bastante accesible y te permite seguir navegando ya que se presenta en modo de pop-up.
 >>>  </p>
 >>>  <h3>Rendimiento:</h3>
 >>>  <p align="justify">
