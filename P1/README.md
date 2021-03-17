@@ -116,5 +116,9 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  <p align="justify">
 >>>    Es uno de los puntos a mejorar por esta web. La ayuda es insuficiente y poco variada. Únicamente poseen de un listado de preguntas frecuentes y un formulario que se envía por email. Por otra parte, la ayuda es bastante accesible y te permite seguir navegando ya que se presenta en modo de pop-up.
 >>>  </p>
+>>>  <h3>Rendimiento:</h3>
+>>>  <p align="justify">
+>>>   Tanto la página web cómo la app responden rápidamente y sin problemas. 
+>>>  </p>
 
 
