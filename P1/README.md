@@ -96,6 +96,18 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  <p align="justify">
 >>>     Es otro de los puntos fuertes de esta página. La función de búsqueda está siempre disponible, interfaz muy accesible, muestra resultados correctamente y suele corregir la mayoría de faltas de ortografía. La única pega es que no maneja abreviaciones en la mayoría de los casos.
 >>>  </p>
+<h3>Control y  Feedback:</h3>
+>>>  <p align="justify">
+>>>    Las respuestas son rápidas y pertinentes. Es fácil deshacer acciones erróneas y se puede contactar por email. Aquí se echa de menos un número de contacto o un asistente en línea.
+>>>  </p>
+>>>  <h3>Formularios:</h3>
+>>>  <p align="justify">
+>>>    Se divide en secciones claramente diferenciadas, no pide una gran cantidad de datos, marca aquellos que son obligatorios y la ayuda es poco eficiente. 
+>>>  </p>
+>>>  <h3>Errores:</h3>
+>>>  <p align="justify">
+>>>    El error se notifica de forma clara en lenguaje natural (sin códigos para usuarios expertos). Es fácilmente recuperarse de un error retrocediendo en el navegador o simplemente clickando en el logo para ir a la página de inicio.
+>>>  </p>
 
 
 
