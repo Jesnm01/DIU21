@@ -81,6 +81,7 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  - Comentario sobre la valoración:  (60-120 caracteres)
 >>>  
 >>>  Características y Funcionalidad:
+>>>  <br>
 >>>  En líneas generales está bastante bien. Se cumplen las metas y objetivos comunes, las tareas son fácilmente accesibles y las acciones están bien etiquetadas. La pega en este apartado es que tanto si eres experto cómo un novato pasarás por el mismo camino.
 >>>   
 
