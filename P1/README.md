@@ -87,7 +87,6 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  </p>
 >>>  <br>
 >>>  <h3>Página de Inicio:</h3>
->>>  <br>
 >>>  <p align="justify">
 >>>      La página de inicio está muy bien. Presenta una interfaz sencilla y clara que proporciona las características básicas de las funcionalidades de la página.
 >>>  </p>
