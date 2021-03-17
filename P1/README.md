@@ -52,7 +52,7 @@ Tabla comparativa de los casos estudiados:
 
 ![Persona1](imagenes/bio_pedro.png)
 
-<p align="justify">En el caso de Irene tenemos un perfil algo distinto al anterior. Aún estudiante, y tieniendo toda la vida por delante se decide a hacer planes con sus compañeras de piso y conocer mundo. Algo impaciente e impulsiva, aunque con más experiencia en tecnologías y redes sociales que Pedro.</p><br>
+<p align="justify">En el caso de Irene tenemos un perfil algo distinto al anterior. Aún estudiante, y teniendo toda la vida por delante se decide a hacer planes con sus compañeras de piso y conocer mundo. Algo impaciente e impulsiva, aunque con más experiencia en tecnologías y redes sociales que Pedro.</p><br>
 
 ![Persona2](imagenes/bio_irene.png)
 
