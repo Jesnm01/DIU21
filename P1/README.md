@@ -92,7 +92,7 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  <p align="justify">
 >>>     La página es accesible desde cualquier navegador y presenta una url predecible. Los distintos enlaces están bien etiquetados y es fácil ubicarte si tienes un manejo estándar.
 >>>  </p>
->>>  >>>  <h3>Búsqueda:</h3>
+>>>  <h3>Búsqueda:</h3>
 >>>  <p align="justify">
 >>>     Es otro de los puntos fuertes de esta página. La función de búsqueda está siempre disponible, interfaz muy accesible, muestra resultados correctamente y suele corregir la mayoría de faltas de ortografía. La única pega es que no maneja abreviaciones en la mayoría de los casos.
 >>>  </p>
