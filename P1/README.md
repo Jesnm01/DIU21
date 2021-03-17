@@ -96,7 +96,7 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  <p align="justify">
 >>>     Es otro de los puntos fuertes de esta página. La función de búsqueda está siempre disponible, interfaz muy accesible, muestra resultados correctamente y suele corregir la mayoría de faltas de ortografía. La única pega es que no maneja abreviaciones en la mayoría de los casos.
 >>>  </p>
-<h3>Control y  Feedback:</h3>
+>>> <h3>Control y  Feedback:</h3>
 >>>  <p align="justify">
 >>>    Las respuestas son rápidas y pertinentes. Es fácil deshacer acciones erróneas y se puede contactar por email. Aquí se echa de menos un número de contacto o un asistente en línea.
 >>>  </p>
