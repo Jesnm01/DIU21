@@ -115,4 +115,7 @@ Ambas experiencias se parecen en rasgos generales, pues los 2 al final consiguen
 >>>   Tanto la página web cómo la app responden rápidamente y sin problemas. 
 >>>  </p>
 
+<h3>CONCLUSIÓN</h3>
+<p align="justify">Para resumir esta práctica vamos a comentar los puntos más interesantes y que nos han sorprendido. Lo primero sería lo difícil que es encontrar un sitio web que recoja la mayoría de nuestros objetivos. Unos tienen reserva de vuelo + actividades, otros solo actividades ... Otra cuestión a resaltar, rara es la vez que se distingue el nivel de experiencia del usuario, por lo que alcanzar tu objetivo dependerá de lo fácil o difícil que sea la interfaz de usar. El tema de crear personajes también nos ha sorprendido debido a que trae más complejidad de lo que uno cree. Para finalizar, esta práctica nos ha enseñado un gran número de dificultades a las que se enfrentan los usuarios y que antes no percibíamos.<p>
+
 
