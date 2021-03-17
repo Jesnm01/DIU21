@@ -86,9 +86,16 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  </p>
 >>>  <h3>Página de Inicio:</h3>
 >>>  <p align="justify">
->>>      La página de inicio está muy bien. Presenta una interfaz sencilla y clara que proporciona las características básicas de las funcionalidades de la página.
+>>>      Es uno de los puntos fuerte de la página, presenta una interfaz sencilla y clara que proporciona las características básicas de las funcionalidades de la página.
 >>>  </p>
->>>  <br>
+>>>  <h3>Navegación:</h3>
+>>>  <p align="justify">
+>>>     La página es accesible desde cualquier navegador y presenta una url predecible. Los distintos enlaces están bien etiquetados y es fácil ubicarte si tienes un manejo estándar.
+>>>  </p>
+>>>  >>>  <h3>Búsqueda:</h3>
+>>>  <p align="justify">
+>>>     Es otro de los puntos fuertes de esta página. La función de búsqueda está siempre disponible, interfaz muy accesible, muestra resultados correctamente y suele corregir la mayoría de faltas de ortografía. La única pega es que no maneja abreviaciones en la mayoría de los casos.
+>>>  </p>
 
 
 
