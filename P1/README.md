@@ -16,7 +16,7 @@
 
 ![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
-<p align="justify">
+<p align="center">
   
   Hemos analizado un total de 3 plataformas de experiencias y planificación de ocio:
 
