@@ -75,6 +75,6 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>>  Enlace al documento pdf: ![pulse aqui](https://github.com/angelsc21/DIU21/blob/master/P1/Usability-review.pdf) 
+>>>  Enlace al documento pdf: [pulse aqui](https://github.com/angelsc21/DIU21/blob/master/P1/Usability-review.pdf) 
 >>> - Valoración final (numérica): 80
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
