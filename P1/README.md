@@ -108,6 +108,13 @@ Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los de
 >>>  <p align="justify">
 >>>    El error se notifica de forma clara en lenguaje natural (sin códigos para usuarios expertos). Es fácilmente recuperarse de un error retrocediendo en el navegador o simplemente clickando en el logo para ir a la página de inicio.
 >>>  </p>
-
+>>>  <h3>Contenido y texto:</h3>
+>>>  <p align="justify">
+>>>    Contenido relevante y útil para el usuario en la mayoría de los casos. Terminología común y hay consistencia en el lenguaje. El contenido es fácil de leer y escaneable si el navegador proporciona dicha función.
+>>>  </p>
+>>>  <h3>Ayuda:</h3>
+>>>  <p align="justify">
+>>>    Es uno de los puntos a mejorar por esta web. La ayuda es insuficiente y poco variada. Únicamente poseen de un listado de preguntas frecuentes y un formulario que se envía por email. Por otra parte, la ayuda es bastante accesible y te permite seguir navegando ya que se presenta en modo de pop-up.
+>>>  </p>
 
 
