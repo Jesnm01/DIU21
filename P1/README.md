@@ -41,7 +41,7 @@ Tabla comparativa de los casos estudiados:
 | Aparencia                       | Compleja          |  Sencilla            | Sencilla      |
 | Conversion Moneda               | No                |  Si                  | No            |
 
-Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los demás portales y tiene ventajas únicas. Entre ellas encontramos a nuestra disposición una app para móvil, cuenta propia dentro de la página, poder reservar en la propia página sin que nos redirija a un dominio externo, conversión a moneda y una web amigable en la que es fácil navegar para cualquier tipo de usuario.
+<p align="justify">Hemos elegido Civitatis porque aporta la mayoría de opciones que nos dan los demás portales y tiene ventajas únicas. Entre ellas encontramos a nuestra disposición una app para móvil, cuenta propia dentro de la página, poder reservar en la propia página sin que nos redirija a un dominio externo, conversión a moneda y una web amigable en la que es fácil navegar para cualquier tipo de usuario.<p>
 
 
 
