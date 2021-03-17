@@ -60,7 +60,7 @@ Tabla comparativa de los casos estudiados:
 ----
 Ambas experiencias se parecen en rasgos generales, pues los 2 al final consiguen su objetivo final. Pero Pedro opta por utilizar la web, mientras que Irene vé más cómodo planear todo desde la app del móvil. Algo en lo que coinciden, y seguramente la mayoria de usuarios también, es que no les gusta tener que gestionar el traslado aparte.
 
-![Journey1](imagenes/viaje_pedro.PNG)
+![Journey1](imagenes/viaje_pedro.png)
 
 ![Journey2](imagenes/viaje_irene.png)
 
