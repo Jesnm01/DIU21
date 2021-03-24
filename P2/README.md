@@ -41,7 +41,7 @@ Leyenda : B (Baja), M(Media), A(Alta)
 | Proponer Actividad | M | A | M |
 | Crear Actividad | B | M | A |
 | Valorar Actividad | M | M | M |
-| Tarea5 | M | M | M |
+| Buscar Actividades | M | M | M |
 | Tarea6 | M | M | M |
 | Tarea7 | M | M | M |
 
