@@ -16,6 +16,7 @@
 
 
 ### PROPUESTA DE VALOR
+
 <p align="justify>
 Los dos grandes inconvenientes de Civitatis son su versatilidad con los grupos de una actividad (por el momento lo único que ofrece es la posibilidad de reservar plazas en un tour) y la ausencia de poder reservar viaje/alojamiento + actividad en la página o que esta te facilite dicho asunto. La propuesta de nuestra aplicación en consecuencia, tratará de resolver dichos inconvenientes y se centrará en la provincia de Granada. 
 
