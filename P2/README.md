@@ -47,6 +47,7 @@ Leyenda : B (Baja), M(Media), A(Alta), N(No Permitido)
 | Checkear Foro | M | B | A |
 | Contacto | M | B | A |
 | Recompensar Guia | M | N | M |
+| Ser Guía | B | B | A |
 
 
 ### ARQUITECTURA DE INFORMACIÓN
