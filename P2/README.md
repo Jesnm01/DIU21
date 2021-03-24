@@ -3,7 +3,8 @@
 ### Ideación 
 * Malla receptora de información 
 
-| **Interesante** | **Críticas**|     
+| **Interesante** | **Críticas**|  
+| ------------- | -------|
 | Es muy sencillo unirse a un tour.| No distingue el nivel de experiencia de usuario para el uso de la web/app.|
 | Implantan medidas anti-covid en los grupos (límite de personas).| Contacto con el soporte de la página muy pobre y parcialmente escondido.|
 |Gran cantidad de tours por ciudad.|No hay versión para imprimir tampoco se puede imprimir la página del evento correctamente.|
