@@ -35,19 +35,19 @@ Grupo Users 1: Usuarios Registrados Estándar
 Grupo Users 2: Usuarios Casual (No registrado)
 Grupo Users 3: Usuario Creador (registrado)
 
-Leyenda : B (Baja), M(Media), A(Alta), N(No Permitido)
+Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)
 
 | <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>|
 | ------------- | -------|   -------|  -------|
-| Reservar Actividad | A | M | B |
-| Proponer Actividad | M | B | A |
-| Crear Actividad | B | N | A |
-| Valorar Actividad | M | N | M |
-| Buscar Actividades | A | A | B |
-| Checkear Foro | M | B | A |
-| Contacto | M | B | A |
-| Recompensar Guia | M | N | M |
-| Ser Guía | B | B | A |
+| Reservar Actividad | A  | M  | B |
+| Proponer Actividad | M  | B  | A |
+| Crear Actividad    | B  | No | A |
+| Valorar Actividad  | M  | No | M |
+| Buscar Actividades | A  | A  | B |
+| Checkear Foro      | M  | B  | A |
+| Contacto           | M  | B  | A |
+| Recompensar Guia   | M  | No | M |
+| Ser Guía           | B  | B  | A |
 
 
 ### ARQUITECTURA DE INFORMACIÓN
