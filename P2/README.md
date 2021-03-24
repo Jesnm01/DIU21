@@ -18,15 +18,15 @@
 ### PROPUESTA DE VALOR
 <p align="justify">Los dos grandes inconvenientes de Civitatis son su versatilidad con los grupos de una actividad (por el momento lo único que ofrece es la posibilidad de reservar plazas en un tour) y la ausencia de poder reservar viaje/alojamiento + actividad en la página o que esta te facilite dicho asunto. La propuesta de nuestra aplicación en consecuencia, tratará de resolver dichos inconvenientes y se centrará en la provincia de Granada.</p>
 
-Un usuario estándar cuándo acceda a la web encontrará todo tipo de facilidades a la hora de búsqueda de actividades con una interfaz clara y sencilla. 
+<p align="justify">Un usuario estándar cuándo acceda a la web encontrará todo tipo de facilidades a la hora de búsqueda de actividades con una interfaz clara y sencilla.</p>
 
-En un apartado claramente a la vista podrá elegir la opción de visualización de la web para distintos tipos de usuario (experto, intermedio o básico). 
+<p align="justify">En un apartado claramente a la vista podrá elegir la opción de visualización de la web para distintos tipos de usuario (experto, intermedio o básico).</p> 
 
-Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla (pasando por unos filtros de verificación) o proponer la idea (no hace falta estar registrado) para que otro usuario o administradores de la web decidan crearla. 
+<p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla (pasando por unos filtros de verificación) o proponer la idea (no hace falta estar registrado) para que otro usuario o administradores de la web decidan crearla.</p> 
 
-Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrá ver sus tours creados, reservas, propuestas, valoraciones ...
+<p align="justify">Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrá ver sus tours creados, reservas, propuestas, valoraciones ...</p>
 
-La web también proveerá la posibilidad de compaginar la actividad con viaje+alojamiento enviándote a una agencia externa de confianza con la que haya un acuerdo pre-establecido.
+<p align="justify">La web también proveerá la posibilidad de compaginar la actividad con viaje+alojamiento enviándote a una agencia externa de confianza con la que haya un acuerdo pre-establecido.</p>
 
 ### TASK ANALYSIS
 
