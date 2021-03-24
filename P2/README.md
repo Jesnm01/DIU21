@@ -31,17 +31,19 @@
 
 * User Task Matrix 
 
-Grupo Users 1: Usuarios que visitan la web para apuntarse a actividades
-Grupo Users 2: Usuarios que quieren crear actividades
+Grupo Users 1: Usuarios Registrados Estándar
+Grupo Users 2: Usuarios Casual (No registrado)
+Grupo Users 3: Usuario Creador (registrado)
+
 Leyenda : B (Baja), M(Media), A(Alta)
 
 | <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>|
 | ------------- | -------|   -------|  -------|
 | Reservar Actividad | A | M | M |
-| Proponer Actividad | M | A | M |
-| Crear Actividad | B | M | A |
-| Valorar Actividad | M | M | M |
-| Buscar Actividades | M | M | M |
+| Proponer Actividad | M | B | A |
+| Crear Actividad | M | B | A |
+| Valorar Actividad | M | B | M |
+| Buscar Actividades | A | A | B |
 | Tarea6 | M | M | M |
 | Tarea7 | M | M | M |
 
