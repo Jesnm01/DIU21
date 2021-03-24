@@ -12,7 +12,7 @@
 |Cómo contactar con el guía de la actividad.|Permitir la creación de un tour|
 |No hay opción de compartir el evento por RSS|Solicitar ser el guía de una actividad.|
 |Quién verifica si esa actividad es real o fake|Filtrar cómo se enseñan las valoraciones de una actividad....|
-|Poder compartir los eventos vía RRSS|Posibilidad de que redirija a una agencia de viajes para poder compaginar viaje+actividad o integrar una reserva de viajes en la web.
+|Posibilidad de recompensar al guía económicamente tras un tour|Posibilidad de que redirija a una agencia de viajes para poder compaginar viaje+actividad o integrar una reserva de viajes en la web.
 
 
 ### PROPUESTA DE VALOR
