@@ -21,7 +21,7 @@
 
 <p align="justify">En un apartado claramente a la vista podrá elegir la opción de visualización de la web para distintos tipos de usuario (experto, intermedio o básico).</p> 
 
-<p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla (pasando por unos filtros de verificación) o proponer la idea (no hace falta estar registrado) para que otro usuario o administradores de la web decidan crearla.</p> 
+<p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla (pasando por unos filtros de verificación) o proponer la idea (no hace falta estar registrado) en el foro para que otro usuario o administradores de la web decidan crearla.</p> 
 
 <p align="justify">Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrá ver sus tours creados, reservas, propuestas, valoraciones ...</p>
 
