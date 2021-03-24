@@ -16,6 +16,13 @@
 
 | <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>|
 | ------------- | -------|   -------|  -------|
+| Tarea1 | M | M | M |
+| Tarea2 | M | M | M |
+| Tarea3 | M | M | M |
+| Tarea4 | M | M | M |
+| Tarea5 | M | M | M |
+| Tarea6 | M | M | M |
+| Tarea7 | M | M | M |
 
 
 ### PROPUESTA DE VALOR
