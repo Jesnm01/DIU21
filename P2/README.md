@@ -2,8 +2,6 @@
 
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
 
  Interesante | Críticas     
 | ------------- | -------|
