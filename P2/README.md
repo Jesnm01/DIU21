@@ -8,7 +8,7 @@
  Interesante | Críticas     
 | ------------- | -------|
 | Crear un grupo es bastante fácil (al menos hasta llegar al proceso de pago)| Homepage para usuarios registrados está mal estructurado.|
-|Información de eventos a golpe de vista| Búsqueda de eventos pobre y poco amigable.|
+| Implantan medidas anti-covid (límite de personas en un grupo)| Búsqueda de eventos pobre y poco amigable.|
 |Fácil de encontrar por los buscadores|No hay versión para imprimir tampoco se puede imprimir la página del evento correctamente.|
 |  **Preguntas** | **Nuevas ideas**|
 |Pagar por publicitar eventos por la página o anuncios de la web.|Usando geolocalización, que se avise de eventos cercanos a la ubicación del usuario|
