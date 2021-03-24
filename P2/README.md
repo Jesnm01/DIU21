@@ -14,7 +14,7 @@
 |Quién verifica si esa actividad es real o fake|Filtrar cómo se enseñan las valoraciones de una actividad....|
 |Posibilidad de recompensar al guía económicamente tras un tour|Posibilidad de que redirija a una agencia de viajes para poder compaginar viaje+actividad o integrar una reserva de viajes en la web.
 
-| <p align="center"><strong>Preguntas</strong></p> |  <p align="center"><strong>Preguntas</strong></p>| <p align="center"><strong>Preguntas</strong></p> | <p align="center"><strong>Preguntas</strong></p>|
+| <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>|
 | ------------- | -------|   -------|  -------|
 
 
