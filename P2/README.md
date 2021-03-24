@@ -7,7 +7,7 @@
 | ------------- | -------|
 | Es muy sencillo unirse a un tour.| No distingue el nivel de experiencia de usuario para el uso de la web/app.|
 | Implantan medidas anti-covid en los grupos (límite de personas).| Contacto con el soporte de la página muy pobre y parcialmente escondido.|
-|Gran cantidad de tours por ciudad.|No hay versión para imprimir tampoco se puede imprimir la página del evento correctamente.|
+|Gran cantidad de tours por ciudad.|No incluye el viaje en avion, tren ... si tienes que desplazarte hasta la ciudad destino.|
 |  <p align="center"><strong>Preguntas</strong></p>  | <p align="center"><strong>Nuevas Ideas</strong></p> |
 |Pagar por publicitar eventos por la página o anuncios de la web.|Usando geolocalización, que se avise de eventos cercanos a la ubicación del usuario|
 |Sistema de verificación para no crear eventos “falsos”|Grupo de Whatsapp/Telegram/Otra aplicación de mensajería integrada o externa para coordinación.|
