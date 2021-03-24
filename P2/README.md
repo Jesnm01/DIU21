@@ -14,6 +14,9 @@
 |Quién verifica si esa actividad es real o fake|Filtrar cómo se enseñan las valoraciones de una actividad....|
 |Posibilidad de recompensar al guía económicamente tras un tour|Posibilidad de que redirija a una agencia de viajes para poder compaginar viaje+actividad o integrar una reserva de viajes en la web.
 
+| <p align="center"><strong>Preguntas</strong></p> |  <p align="center"><strong>Preguntas</strong></p>| <p align="center"><strong>Preguntas</strong></p> | <p align="center"><strong>Preguntas</strong></p>|
+| ------------- | -------|   -------|  -------|
+
 
 ### PROPUESTA DE VALOR
 <p align="justify">Los dos grandes inconvenientes de Civitatis son su versatilidad con los grupos de una actividad (por el momento lo único que ofrece es la posibilidad de reservar plazas en un tour) y la ausencia de poder reservar viaje/alojamiento + actividad en la página o que esta te facilite dicho asunto. La propuesta de nuestra aplicación en consecuencia, tratará de resolver dichos inconvenientes y se centrará en la reserva/creación de actividades en la provincia de Granada.</p>
