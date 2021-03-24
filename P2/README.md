@@ -39,7 +39,7 @@ Leyenda : B (Baja), M(Media), A(Alta)
 
 | <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>|
 | ------------- | -------|   -------|  -------|
-| Reservar Actividad | A | M | M |
+| Reservar Actividad | A | M | B |
 | Proponer Actividad | M | B | A |
 | Crear Actividad | B | B | A |
 | Valorar Actividad | M | B | M |
