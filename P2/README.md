@@ -30,6 +30,7 @@
 ### TASK ANALYSIS
 
 * User Task Matrix 
+
 | <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>|
 | ------------- | -------|   -------|  -------|
 | Tarea1 | M | M | M |
