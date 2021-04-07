@@ -3,7 +3,7 @@
 ### Ideación 
 * Malla receptora de información 
 
-| **Interesante** | **Críticas**|  
+| <p align="center"><strong>Interesante</strong></p> | <p align="center"><strong>Críticas</strong></p>|  
 | ------------- | -------|
 | Es muy sencillo unirse a un tour.| No distingue el nivel de experiencia de usuario para el uso de la web/app.|
 | Implantan medidas anti-covid en los grupos (límite de personas).| Contacto con el soporte de la página parcialmente escondido.|
