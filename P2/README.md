@@ -37,9 +37,9 @@
 
 * User Task Matrix 
 
-Grupo Users 1: Usuarios Registrados Estándar.
-Grupo Users 2: Usuarios Casual (No registrado) típico usuario que se mete a curiosear.
-Grupo Users 3: Usuario Creador (registrado).
+Grupo Users 1: Usuarios que visita la web con frecuencia.
+Grupo Users 2: Usuarios Casual. Típico usuario que se mete a curiosear para buscar una actividad puntual.
+Grupo Users 3: Usuario Creador. Es un usuario que principalmente se dedica a crear/proponer actividades.
 
 Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)
 
@@ -48,14 +48,16 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)
 | Reservar Actividad | A  | M  | B |
 | Proponer Actividad | M  | B  | A |
 | Crear Actividad    | B  | No | A |
-| Valorar Actividad  | M  | No | M |
+| Valorar Actividad  | A  | No | M |
 | Buscar Actividades | A  | A  | B |
-| Usar Foro      | M  | B  | A |
+| Usar Foro      | M  | B  | M |
 | Chatear en actividad| M | B | B |
-| Contacto           | M  | B  | A |
-| Recompensar Guia   | M  | No | M |
+| Contacto           | M  | B | A |
+| Recompensar Guia   | M  | B | B |
 | Ser Guía           | B  | B  | A |
 | Visitar perfil de otro usuario | M | B  | B |
+| Registrarse | A | B | A |
+| Checkear notificaciones | M | B | A |
 
 ### ARQUITECTURA DE INFORMACIÓN
 
