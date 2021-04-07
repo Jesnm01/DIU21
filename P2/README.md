@@ -14,7 +14,7 @@
 |Cómo contactar con el guía de la actividad.|Permitir la creación de un tour|
 |No hay opción de compartir el evento por RSS|Solicitar ser el guía de una actividad.|
 |Quién verifica si esa actividad es real o fake|Filtrar cómo se enseñan las valoraciones de una actividad....|
-|Posibilidad de recompensar al guía económicamente/valorando positivamente tras un tour (exclusivamente al guía, no a la actividad cómo tal|
+|Posibilidad de recompensar al guía económicamente/valorando positivamente tras un tour (exclusivamente al guía, no a la actividad cómo tal)|
 
 ### PROPUESTA DE VALOR
 <p align="justify">Los dos grandes inconvenientes de Civitatis son su versatilidad con los grupos de una actividad (por el momento lo único que ofrece es la posibilidad de reservar plazas en un tour) y la ausencia de poder reservar viaje/alojamiento + actividad en la página o que esta te facilite dicho asunto. La propuesta de nuestra aplicación en consecuencia, tratará de resolver dichos inconvenientes y se centrará en la reserva/creación de actividades en la provincia de Granada.</p>
