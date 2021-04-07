@@ -55,7 +55,7 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)
 | Contacto           | M  | B  | A |
 | Recompensar Guia   | M  | No | M |
 | Ser Guía           | B  | B  | A |
-
+| Visitar perfil de otro usuario | M | B  | B |
 
 ### ARQUITECTURA DE INFORMACIÓN
 
