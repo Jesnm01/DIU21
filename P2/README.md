@@ -7,7 +7,7 @@
 | ------------- | -------|
 | Es muy sencillo unirse a un tour.| No distingue el nivel de experiencia de usuario para el uso de la web/app.|
 | Implantan medidas anti-covid en los grupos (límite de personas).| Contacto con el soporte de la página parcialmente escondido.|
-| Gran cantidad de tours por ciudad.||
+| Gran cantidad de tours por ciudad.| No permite ni crear ni proponer tours|
 |  <p align="center"><strong>Preguntas</strong></p>  | <p align="center"><strong>Nuevas Ideas</strong></p> |
 |Cómo contactar con el guía de la actividad.|Permitir la creación de un tour|
 |No hay opción de compartir el evento por RSS|Solicitar ser el guía de una actividad.|
