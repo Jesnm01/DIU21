@@ -33,6 +33,8 @@
 
 <p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono También, existirá un foro de dudas frecuentes en el que podremos investigar y hacer nuevas preguntas.</p>
 
+<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Partiendo de una clasificación conceptual de actividades, cualquier</p>
+
 ### TASK ANALYSIS
 
 * User Task Matrix 
