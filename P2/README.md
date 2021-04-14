@@ -18,7 +18,7 @@
 
 ### PROPUESTA DE VALOR
 
-<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Partiendo de una clasificación conceptual de actividades, cualquier usuario podrá "bichear" actividades de su interés, grupos a los que unirse, crear un grupo ... y cómo innovación principal incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro por si un trabajador de la página u otro usuario  puede llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
+<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Cualquier usuario podrá buscar actividades de su interés, grupos a los que unirse, crear un grupo ... y cómo innovación principal incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro de actividades por si un trabajador de la página u otro usuario  puede llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
 
 ![Canvas](canvas.png)
 
@@ -27,21 +27,19 @@
 <p align="justify">----------------------------------- PREGUNTAR SI BORRAMOS ESTAS ACLARACIONES ----------------------------------------------------------- </p>
 <br><br>
 
-<p align="justify">El gran inconveniente de Civitatis es su versatilidad con los grupos de una actividad (por el momento, lo único que ofrece es la posibilidad de reservar plazas en un tour). A la hora de desarrollar nuestro proyecto lo tendremos en cuenta y trataremos de solventar dicho inconveniente (proponiendo nuevas opciones). Nos centraremos en la actividades que se ubiquen dentro de la provincia de Granada.</p>
+<p align="justify">El gran inconveniente de Civitatis es su versatilidad con los grupos de una actividad (por el momento, lo único que ofrece es la posibilidad de reservar plazas en un tour). A la hora de desarrollar nuestro proyecto lo tendremos en cuenta y trataremos de solventar dicho inconveniente (proponiendo nuevas opciones).</p>
 
 <p align="justify">Un usuario estándar cuándo acceda a la web encontrará todo tipo de facilidades a la hora de búsqueda de actividades con una interfaz clara y sencilla.</p>
 
-<p align="justify">En un apartado claramente a la vista podrá elegir la opción de visualización de la web para distintos tipos de usuario (experto, intermedio o básico).</p> 
+<p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla (pasando por unos filtros de verificación) o proponer la idea (no hace falta estar registrado) en el foro para que otro usuario o administradores de la web decidan crearla. </p>
 
-<p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla (pasando por unos filtros de verificación) o proponer la idea (no hace falta estar registrado) en el foro para que otro usuario o administradores de la web decidan crearla. Los usuarios registrados tendrán preferencia a la hora de reservar actividades. Cuándo un usuario no reservado trate de hacer una reserva, hasta que no se realice el pago no será oficial y en caso de ser una actividad gratuita, pasará por unos filtros de identificación más exhaustivos para evitar trolls que puedan fastidiar una actividad.</p> 
+<p align="justify">En la página se podrán hacer grupos de usuarios que tengan afinidad, mismas motivaciones ... creando así un ambiente de comunidad. </p>
 
-<p align="justify">Para los usuarios que hayan reservado una misma actividad se creará un chat en el que podrán interactuar previamente a la realización de la actividad. Así incrementaremos el buen ambiente y la posibilidad de hacer nuevas amistades con mayor facilidad.</p> 
+<p align="justify">Existirá un foro de actividades a modo de tablón de anuncios dónde apareceran las actividades más próximas a su fin, actividades propuestas ...</p> 
 
-<p align="justify">Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrá ver sus tours creados, reservas, propuestas, valoraciones ... Creemos que esto ayudará a darle un asepcto más familiar a la página haciendo que los usuarios se sientan más vinculados con ella.</p>
+<p align="justify">Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrán ver sus actividades, grupos, amigos, perfil y mensajería.</p>
 
-<p align="justify">La web también proveerá la posibilidad de compaginar la actividad con viaje+alojamiento enviándote a una agencia externa de confianza con la que haya un acuerdo pre-establecido.</p>
-
-<p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono También, existirá un foro de dudas frecuentes en el que podremos investigar y hacer nuevas preguntas.</p>
+<p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono. También, existirá un foro de dudas frecuentes en el que podremos investigar y hacer nuevas preguntas.</p>
 
 
 ### TASK ANALYSIS
