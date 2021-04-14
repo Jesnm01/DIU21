@@ -58,19 +58,19 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 | <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>| <p align="center"><strong>Grupo 4</strong></p> |
 | ------------- | -------|   -------|  -------|
-| Reservar Actividad | A  | M  | B |
-| Proponer Actividad | M  | B  | A |
-| Crear Actividad    | B  | No | A |
-| Valorar Actividad  | A  | No | M |
-| Buscar Actividades | A  | A  | B |
-| Usar Foro      | M  | B  | M |
-| Chatear en actividad| M | B | B |
-| Contacto           | M  | B | A |
-| Recompensar Guia   | M  | B | B |
-| Ser Guía           | B  | B  | A |
-| Visitar perfil de otro usuario | M | B  | B |
-| Registrarse | A | B | A |
-| Checkear notificaciones | M | B | A |
+| Reservar Actividad | A  | M  | B | Holi |
+| Proponer Actividad | M  | B  | A | Holi |
+| Crear Actividad    | B  | No | A | Holi |
+| Valorar Actividad  | A  | No | M | Holi |
+| Buscar Actividades | A  | A  | B | Holi |
+| Usar Foro      | M  | B  | M | Holi |
+| Chatear en actividad| M | B | B | Holi |
+| Contacto           | M  | B | A | Holi |
+| Recompensar Guia   | M  | B | B | Holi |
+| Ser Guía           | B  | B  | A | Holi |
+| Visitar perfil de otro usuario | M | B  | B | Holi | 
+| Registrarse | A | B | A | Holi |
+| Checkear notificaciones | M | B | A | Holi |
 
 ### ARQUITECTURA DE INFORMACIÓN
 
