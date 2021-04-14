@@ -17,6 +17,13 @@
 |Posibilidad de recompensar al guía económicamente/valorando positivamente tras un tour (exclusivamente al guía, no a la actividad cómo tal)| Posibilidad de proponer tours y que otro usuario o trabajador de empresa lo organice. | Dividir las actividades por categorías.
 
 ### PROPUESTA DE VALOR
+
+<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Partiendo de una clasificación conceptual de actividades, cualquier usuario podrá "bichear" actividades de su interés, grupos a los que unirse ... y cómo innovación principal incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro por si un trabajador de la página u otro usuario  puede llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
+
+<br><br>
+<p align="justify">----------------------------------- PREGUNTAR SI BORRAMOS ESTAS ACLARACIONES ----------------------------------------------------------- </p>
+<br><br>
+
 <p align="justify">El gran inconveniente de Civitatis es su versatilidad con los grupos de una actividad (por el momento, lo único que ofrece es la posibilidad de reservar plazas en un tour). A la hora de desarrollar nuestro proyecto lo tendremos en cuenta y trataremos de solventar dicho inconveniente (proponiendo nuevas opciones). Nos centraremos en la actividades que se ubiquen dentro de la provincia de Granada.</p>
 
 <p align="justify">Un usuario estándar cuándo acceda a la web encontrará todo tipo de facilidades a la hora de búsqueda de actividades con una interfaz clara y sencilla.</p>
@@ -33,7 +40,6 @@
 
 <p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono También, existirá un foro de dudas frecuentes en el que podremos investigar y hacer nuevas preguntas.</p>
 
-<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Partiendo de una clasificación conceptual de actividades, cualquier</p>
 
 ### TASK ANALYSIS
 
