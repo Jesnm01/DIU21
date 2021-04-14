@@ -48,10 +48,10 @@
 
 * User Task Matrix 
 
-Grupo Users 1: Usuarios que visita la web con frecuencia.<br>
-Grupo Users 2: Usuarios Casual. Típico usuario que se mete a curiosear para buscar una actividad puntual.<br>
-Grupo Users 3: Usuario Premium. Tiene la posibilidad de crear actividades.<br>
-Grupo Users 4: Usuario que residen lejos de Granada (incluido extranjeros). <br>
+Grupo Users 1: Usuarios que visita la web con frecuencia (registrado).<br>
+Grupo Users 2: Usuarios Casual (no registrado). Típico usuario que se mete a curiosear para buscar una actividad puntual.<br>
+Grupo Users 3: Usuario Creador(Premium). Tiene la posibilidad de crear actividades.<br>
+Grupo Users 4: Usuarios extranjeros (de otro páis o vive en españa lejos de Granada)(no registrado). <br>
 
 Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
@@ -59,22 +59,23 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 | ------------- | -------|   -------|  -------|  -------|
 | Buscar Actividades | A  | A  | B | A |
 | Pagar actividad | M  | B  | B | B |
-| Unirse Actividad | A  | M  | B | Holi |
-| Proponer Actividad | M  | B  | A | Holi |
-| Crear Actividad    | B  | No | A | Holi |
-| Crear Grupo | B  | No | A | Holi |
-| Buscar Grupos | A  | A  | B | Holi |
-| Unirse a Grupo | B  | No | A | Holi |
-| Registrarse | A | B | A | Holi |
-| Contacto | M  | B | A | Holi |
-| Valorar Actividad  | A  | No | M | Holi |
-| Usar Foro | M  | B  | M | Holi |
-| Mandar mensaje usuario | M  | B  | M | Holi | 
-| Checkear notificaciones | M | B | A | Holi |
-| Visitar perfil de otro usuario | M | B  | B | Holi | 
-| Solicitar ser guía | B  | B  | A | Holi |
-| Leer Términos y Condiciones | B  | B  | A | Holi | 
-| Leer Acerca De | B  | B  | A | Holi | 
+| Unirse Actividad | A  | M  | B | M |
+| Proponer Actividad | M  | B  | A | B |
+| Crear Actividad    | No  | No | A | No |
+| Crear Grupo | M  | No | A | No |
+| Buscar Grupos | A  | M  | B | M |
+| Unirse a Grupo | M  |B | B | M |
+| Registrarse | A | B | A | B |
+| Contacto | M  | B | A | M |
+| Valorar Actividad  | A | B | B | M |
+| Usar Foro | A | B | M | M |
+| Mandar mensaje usuario | M  | B | M | B | 
+| Checkear notificaciones | M | No | A | No |
+| Visitar perfil de otro usuario | M | B | M | B | 
+| Solicitar ser guía | M | B | A | B |
+| Leer Términos y Condiciones | M  | B  | A | B | 
+| Leer Acerca De | M  | B | M  | B | 
+| Elegir Idioma | B  | B  | B | A | 
 
 
 ### ARQUITECTURA DE INFORMACIÓN
