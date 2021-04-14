@@ -51,12 +51,12 @@
 Grupo Users 1: Usuarios que visita la web con frecuencia.<br>
 Grupo Users 2: Usuarios Casual. Típico usuario que se mete a curiosear para buscar una actividad puntual.<br>
 Grupo Users 3: Usuario Premium. Tiene la posibilidad de crear actividades.<br>
-Grupo Users 4: Usuarios que viven en Granada o cerca de ella.
-Grupo Users 5: Usuario que residen lejos de Granada (incluido extranjeros).
+Grupo Users 4: Usuarios que viven en Granada o cerca de ella. <br>
+Grupo Users 5: Usuario que residen lejos de Granada (incluido extranjeros). <br>
 
-Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)
+Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
-| <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>| <p align="center"><strong>Grupo 4</strong></p>|
+| <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>| <p align="center"><strong>Grupo 4</strong></p> |
 | ------------- | -------|   -------|  -------|
 | Reservar Actividad | A  | M  | B |
 | Proponer Actividad | M  | B  | A |
