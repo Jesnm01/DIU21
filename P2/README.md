@@ -51,25 +51,31 @@
 Grupo Users 1: Usuarios que visita la web con frecuencia.<br>
 Grupo Users 2: Usuarios Casual. Típico usuario que se mete a curiosear para buscar una actividad puntual.<br>
 Grupo Users 3: Usuario Premium. Tiene la posibilidad de crear actividades.<br>
-Grupo Users 4: Usuarios que viven en Granada o cerca de ella. <br>
-Grupo Users 5: Usuario que residen lejos de Granada (incluido extranjeros). <br>
+Grupo Users 4: Usuario que residen lejos de Granada (incluido extranjeros). <br>
 
 Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 | <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>| <p align="center"><strong>Grupo 4</strong></p> |
 | ------------- | -------|   -------|  -------|  -------|
-| Reservar Actividad | A  | M  | B | Holi |
+| Buscar Actividades | A  | A  | B | A |
+| Pagar actividad | M  | B  | B | B |
+| Unirse Actividad | A  | M  | B | Holi |
 | Proponer Actividad | M  | B  | A | Holi |
-| Crear Grupo    | B  | No | A | Holi |
 | Crear Actividad    | B  | No | A | Holi |
-| Valorar Actividad  | A  | No | M | Holi |
-| Buscar Actividades | A  | A  | B | Holi |
-| Usar Foro | M  | B  | M | Holi |
-| Contacto | M  | B | A | Holi |
-| Solicitar ser guía | B  | B  | A | Holi |
-| Visitar perfil de otro usuario | M | B  | B | Holi | 
+| Crear Grupo | B  | No | A | Holi |
+| Buscar Grupos | A  | A  | B | Holi |
+| Unirse a Grupo | B  | No | A | Holi |
 | Registrarse | A | B | A | Holi |
+| Contacto | M  | B | A | Holi |
+| Valorar Actividad  | A  | No | M | Holi |
+| Usar Foro | M  | B  | M | Holi |
+| Mandar mensaje usuario | M  | B  | M | Holi | 
 | Checkear notificaciones | M | B | A | Holi |
+| Visitar perfil de otro usuario | M | B  | B | Holi | 
+| Solicitar ser guía | B  | B  | A | Holi |
+| Leer Términos y Condiciones | B  | B  | A | Holi | 
+| Leer Acerca De | B  | B  | A | Holi | 
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
