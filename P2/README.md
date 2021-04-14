@@ -56,7 +56,7 @@ Grupo Users 5: Usuario que residen lejos de Granada (incluido extranjeros).
 
 Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)
 
-| <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>| | <p align="center"><strong>Grupo4</strong></p>| | <p align="center"><strong>Grupo5</strong></p>|
+| <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>| <p align="center"><strong>Grupo4</strong></p>| <p align="center"><strong>Grupo5</strong></p>|
 | ------------- | -------|   -------|  -------|
 | Reservar Actividad | A  | M  | B |
 | Proponer Actividad | M  | B  | A |
