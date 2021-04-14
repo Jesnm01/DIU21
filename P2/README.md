@@ -20,7 +20,7 @@
 
 <p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Partiendo de una clasificación conceptual de actividades, cualquier usuario podrá "bichear" actividades de su interés, grupos a los que unirse ... y cómo innovación principal incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro por si un trabajador de la página u otro usuario  puede llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
 
-(imagen_del_canvas_completo.png)
+![Canvas](imagen_del_canvas_completo.png)
 
 <br><br>
 <p align="justify">----------------------------------- PREGUNTAR SI BORRAMOS ESTAS ACLARACIONES ----------------------------------------------------------- </p>
