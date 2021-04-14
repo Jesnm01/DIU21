@@ -48,9 +48,9 @@
 
 * User Task Matrix 
 
-Grupo Users 1: Usuarios que visita la web con frecuencia.
-Grupo Users 2: Usuarios Casual. Típico usuario que se mete a curiosear para buscar una actividad puntual.
-Grupo Users 3: Usuario Creador. Es un usuario que principalmente se dedica a crear/proponer actividades.
+Grupo Users 1: Usuarios que visita la web con frecuencia.<br>
+Grupo Users 2: Usuarios Casual. Típico usuario que se mete a curiosear para buscar una actividad puntual.<br>
+Grupo Users 3: Usuario Creador. Es un usuario que principalmente se dedica a crear/proponer actividades.<br>
 
 Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)
 
