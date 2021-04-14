@@ -60,14 +60,13 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 | ------------- | -------|   -------|  -------|  -------|
 | Reservar Actividad | A  | M  | B | Holi |
 | Proponer Actividad | M  | B  | A | Holi |
+| Crear Grupo    | B  | No | A | Holi |
 | Crear Actividad    | B  | No | A | Holi |
 | Valorar Actividad  | A  | No | M | Holi |
 | Buscar Actividades | A  | A  | B | Holi |
-| Usar Foro      | M  | B  | M | Holi |
-| Chatear en actividad| M | B | B | Holi |
-| Contacto           | M  | B | A | Holi |
-| Recompensar Guia   | M  | B | B | Holi |
-| Ser Guía           | B  | B  | A | Holi |
+| Usar Foro | M  | B  | M | Holi |
+| Contacto | M  | B | A | Holi |
+| Solicitar ser guía | B  | B  | A | Holi |
 | Visitar perfil de otro usuario | M | B  | B | Holi | 
 | Registrarse | A | B | A | Holi |
 | Checkear notificaciones | M | B | A | Holi |
