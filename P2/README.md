@@ -50,7 +50,7 @@
 
 Grupo Users 1: Usuarios que visita la web con frecuencia (registrado).<br>
 Grupo Users 2: Usuarios Casual (no registrado). Típico usuario que se mete a curiosear para buscar una actividad puntual.<br>
-Grupo Users 3: Usuario Creador(Premium). Tiene la posibilidad de crear actividades.<br>
+Grupo Users 3: Usuario Creador. Tiene la posibilidad de crear actividades.<br>
 Grupo Users 4: Usuarios extranjeros (de otro páis o vive en españa lejos de Granada)(no registrado). <br>
 
 Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
@@ -58,21 +58,22 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 | <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>| <p align="center"><strong>Grupo 4</strong></p> |
 | ------------- | -------|   -------|  -------|  -------|
 | Buscar Actividades | A  | A  | B | A |
-| Pagar actividad | M  | B  | B | B |
-| Unirse Actividad | A  | M  | B | M |
 | Proponer Actividad | M  | B  | A | B |
+| Reservar Actividad | A  | M  | B | M |
 | Crear Actividad    | No  | No | A | No |
-| Crear Grupo | M  | No | A | No |
-| Buscar Grupos | A  | M  | B | M |
-| Unirse a Grupo | M  |B | B | M |
-| Registrarse | A | B | A | B |
-| Contacto | M  | B | A | M |
+| Pagar actividad | M  | B  | B | B |
 | Valorar Actividad  | A | B | B | M |
-| Usar Foro | A | B | M | M |
+| Foro Actividades | A | B | M | M |
+| Buscar Grupos | A  | M  | B | M |
+| Unirse a Grupo | M | No | B | No |
+| Crear Grupo | M  | No | A | No |
+| Registrarse | A | B | A | B |
+| Checkear notificaciones | M | No | A | No |
 | Mandar mensaje usuario | M  | B | M | B | 
 | Añadir usuario amigo | M | No | M | No | 
-| Checkear notificaciones | M | No | A | No |
 | Visitar perfil de otro usuario | M | B | M | B | 
+| Foro Dudas | M  | B | B | M |
+| Checkear notificaciones | M | No | A | No |
 | Solicitar ser guía | M | B | A | B |
 | Leer Términos y Condiciones | M  | B  | A | B | 
 | Leer Acerca De | M  | B | M  | B | 
