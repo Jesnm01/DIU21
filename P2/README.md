@@ -70,6 +70,7 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 | Valorar Actividad  | A | B | B | M |
 | Usar Foro | A | B | M | M |
 | Mandar mensaje usuario | M  | B | M | B | 
+| Añadir usuario amigo | M | No | M | No | 
 | Checkear notificaciones | M | No | A | No |
 | Visitar perfil de otro usuario | M | B | M | B | 
 | Solicitar ser guía | M | B | A | B |
