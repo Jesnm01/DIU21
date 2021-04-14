@@ -83,6 +83,9 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 * Sitemap 
 * Labelling 
 
+| <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
+| ------------- | -------|   -------|  -------|  -------|
+| Buscar Actividades | A  | A  | 
 
 ### Prototipo Lo-FI Wireframe 
 
