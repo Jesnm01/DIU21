@@ -18,7 +18,7 @@
 
 ### PROPUESTA DE VALOR
 
-<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Partiendo de una clasificación conceptual de actividades, cualquier usuario podrá "bichear" actividades de su interés, grupos a los que unirse ... y cómo innovación principal incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro por si un trabajador de la página u otro usuario  puede llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
+<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Partiendo de una clasificación conceptual de actividades, cualquier usuario podrá "bichear" actividades de su interés, grupos a los que unirse, crear un grupo ... y cómo innovación principal incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro por si un trabajador de la página u otro usuario  puede llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
 
 ![Canvas](canvas.png)
 
@@ -50,11 +50,13 @@
 
 Grupo Users 1: Usuarios que visita la web con frecuencia.<br>
 Grupo Users 2: Usuarios Casual. Típico usuario que se mete a curiosear para buscar una actividad puntual.<br>
-Grupo Users 3: Usuario Creador. Es un usuario que principalmente se dedica a crear/proponer actividades.<br>
+Grupo Users 3: Usuario Premium. Tiene la posibilidad de crear actividades.<br>
+Grupo Users 4: Usuarios que viven en Granada o cerca de ella.
+Grupo Users 5: Usuario que residen lejos de Granada (incluido extranjeros).
 
 Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)
 
-| <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>|
+| <p align="center"><strong>Grupos de Usuarios</strong></p> |  <p align="center"><strong>Grupo 1</strong></p>| <p align="center"><strong>Grupo2</strong></p> | <p align="center"><strong>Grupo3</strong></p>| | <p align="center"><strong>Grupo4</strong></p>| | <p align="center"><strong>Grupo5</strong></p>|
 | ------------- | -------|   -------|  -------|
 | Reservar Actividad | A  | M  | B |
 | Proponer Actividad | M  | B  | A |
