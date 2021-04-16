@@ -110,19 +110,13 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 ### Prototipo Lo-FI Wireframe 
 
-<h3>
-<p align="center"><strong>HOMEPAGE</strong></p>
-</h3>
+<h3><strong>HOMEPAGE</strong></h3>
 
 ![Canvas](HomePage.png)
 
-<h3>
-<p align="center"><strong>LOGIN</strong></p>
-</h3>
+<h3><strong>LOGIN</strong></h3>
 
-<p align="Center>
 ![Canvas](Login.png)
-</p>
 
 ### Conclusiones  
 
