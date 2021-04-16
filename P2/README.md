@@ -81,8 +81,32 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 | <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
 | ------------- | -------| 
-| Buscar Actividades | A  | 
-
+| Terminos y Condiciones | A  | 
+| Acerca De | A  | 
+| Login | A  | 
+| Panel de Usuario | A  | 
+| Mis Grupos | A  | 
+| Unidos | A  | 
+| Creados | A  | 
+| Crear Grupo | A  | 
+| Mis Actividades | A  | 
+| Reservadas | A  | 
+| Creadas | A  | 
+| Crear Actividad | A  | 
+| Amigos | A  | 
+| Perfil | A  | 
+| Mensajeria | A  | 
+| Grupos | A  | 
+| Info Grupo | A  | 
+| Unirse Grupo | A  | 
+| Actividades | A  | 
+| Foro Actividades | A  | 
+| Info Actividad | A  | 
+| Reserva Actividad | A  | 
+| Ayuda | A  | 
+| Contacto | A  | 
+| Asistente | A  | 
+| Foro Preguntas | A  | 
 
 ### Prototipo Lo-FI Wireframe 
 
