@@ -81,7 +81,7 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 | <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
 | ------------- | -------| 
-| Terminos y Condiciones | A  | 
+| Terminos y Condiciones | Acuerdo de voluntades entre la página y usuario por el cual se pactan derechos y obligaciones que ambas partes asumirán.  | 
 | Acerca De | A  | 
 | Login | A  | 
 | Panel de Usuario | A  | 
