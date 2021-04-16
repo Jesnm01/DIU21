@@ -112,4 +112,6 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+Esta etapa nos ha parecido más interesante que la anterior dado que empiezas a trabajar con ideas propias y no sobre una aplicación que ya está hecha. Nos hemos dado cuenta de que realizar una aplicación (conceptualmente) no es tan sencillo cómo parece a priori. Tienes que valorar cómo interpretará el usuario si colocas cierta cosa en un sitio u otro ... En resumen, nos ha parecido una práctica interesante para introducirnos en desarrollo de una aplicación.
+
