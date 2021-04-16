@@ -120,7 +120,9 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 <p align="center"><strong>LOGIN</strong></p>
 </h3>
 
+<p align="Center>
 ![Canvas](Login.png)
+</p>
 
 ### Conclusiones  
 
