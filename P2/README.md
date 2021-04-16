@@ -75,7 +75,7 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 * Sitemap 
 
-![Canvas](SiteMap.png)
+![SiteMap](SiteMap.png)
 
 * Labelling 
 
@@ -112,11 +112,11 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 <h3><strong>HOMEPAGE</strong></h3>
 
-![Canvas](HomePage.PNG)
+![HomePage](HomePage.PNG)
 
 <h3><strong>LOGIN</strong></h3>
 
-![Canvas](Login.PNG)
+![Login](Login.PNG)
 
 ### Conclusiones  
 
