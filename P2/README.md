@@ -81,32 +81,32 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 | <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
 | ------------- | -------| 
-| Terminos y Condiciones | Acuerdo de voluntades entre la página y usuario por el cual se pactan derechos y obligaciones que ambas partes asumirán.  | 
-| Acerca De | A  | 
-| Login | A  | 
-| Panel de Usuario | A  | 
-| Mis Grupos | A  | 
-| Unidos | A  | 
-| Creados | A  | 
-| Crear Grupo | A  | 
-| Mis Actividades | A  | 
-| Reservadas | A  | 
-| Creadas | A  | 
-| Crear Actividad | A  | 
-| Amigos | A  | 
-| Perfil | A  | 
-| Mensajeria | A  | 
-| Grupos | A  | 
-| Info Grupo | A  | 
-| Unirse Grupo | A  | 
-| Actividades | A  | 
-| Foro Actividades | A  | 
-| Info Actividad | A  | 
-| Reserva Actividad | A  | 
-| Ayuda | A  | 
-| Contacto | A  | 
-| Asistente | A  | 
-| Foro Preguntas | A  | 
+| Terminos y Condiciones | Acuerdo de voluntades entre la aplicación y usuario por el cual se pactan derechos y obligaciones que ambas partes asumirán.  | 
+| Acerca De | Información sobre la empresa detrás de la aplicación  | 
+| Login | Identificación del usuario en la plataforma  | 
+| Panel de Usuario | Apartado de acceso único a usuarios registrados en el que podrán gestionar sus grupos, actividades ...   | 
+| Mis Grupos | Panel que clasifica los grupos del usuario y la opción de crear uno | 
+| Unidos | Grupos a los que se ha unido el usuario | 
+| Creados | Grupos que ha creado el usuario | 
+| Crear Grupo | Interfaz de creación de grupo | 
+| Mis Actividades | Panel que clasifica las actividades del usuario y la opción de crear una | 
+| Reservadas | Actividades reservadas por el usuario | 
+| Creadas | Actividades creadas por el usuario  | 
+| Crear Actividad | Interfaz de creación de actividad  | 
+| Amigos | List de amigos del usuario | 
+| Perfil | Perfil de usuario con información personal  | 
+| Mensajeria | Chat del usuario en el que se muestran las conversaciones  | 
+| Grupos | Catálogo de grupos creados en la aplicación | 
+| Info Grupo | Información de un grupo concreto de la aplicación | 
+| Unirse Grupo | Formulario para acceder a un grupo | 
+| Actividades | Catálogo de actividades creadas en la aplicación  | 
+| Foro Actividades | Foro en el que se publican las actividades próximas a su fin, actividades propuestas ...  | 
+| Info Actividad | Información de una actividad concreta  | 
+| Reserva Actividad | Formulario para reservar una actividad  | 
+| Ayuda | Sección de ayuda al cliente  | 
+| Contacto | Listado de distintas vías de ayuda | 
+| Asistente | Asistente online que interactua con el usuario para resolver sus dudas  | 
+| Foro Preguntas | Preguntas frecuentes ya resueltas | 
 
 ### Prototipo Lo-FI Wireframe 
 
