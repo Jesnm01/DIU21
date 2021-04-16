@@ -20,13 +20,6 @@
 
 <p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Cualquier usuario podrá buscar actividades de su interés, grupos a los que unirse, crear un grupo ... y cómo innovación principal incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro de actividades por si un trabajador de la página u otro usuario  puede llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
 
-![Canvas](canvas.png)
-
-
-<br><br>
-<p align="justify">----------------------------------- PREGUNTAR SI BORRAMOS ESTAS ACLARACIONES ----------------------------------------------------------- </p>
-<br><br>
-
 <p align="justify">Un usuario estándar cuándo acceda a la web encontrará todo tipo de facilidades a la hora de búsqueda de actividades con una interfaz clara y sencilla.</p>
 
 <p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla o proponer la idea (no hace falta estar registrado) en el foro para que otro usuario o administradores de la web decidan crearla. </p>
@@ -38,6 +31,8 @@
 <p align="justify">Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrán ver sus actividades, grupos, amigos, perfil y mensajería.</p>
 
 <p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono. También, existirá un foro de dudas frecuentes en el que podremos investigar y hacer nuevas preguntas.</p>
+
+![Canvas](canvas.png)
 
 
 ### TASK ANALYSIS
@@ -86,7 +81,8 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 | <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
 | ------------- | -------| 
-| Buscar Actividades | A  | A  | 
+| Buscar Actividades | A  | 
+
 
 ### Prototipo Lo-FI Wireframe 
 
