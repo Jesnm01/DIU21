@@ -27,11 +27,9 @@
 <p align="justify">----------------------------------- PREGUNTAR SI BORRAMOS ESTAS ACLARACIONES ----------------------------------------------------------- </p>
 <br><br>
 
-<p align="justify">El gran inconveniente de Civitatis es su versatilidad con los grupos de una actividad (por el momento, lo único que ofrece es la posibilidad de reservar plazas en un tour). A la hora de desarrollar nuestro proyecto lo tendremos en cuenta y trataremos de solventar dicho inconveniente (proponiendo nuevas opciones).</p>
-
 <p align="justify">Un usuario estándar cuándo acceda a la web encontrará todo tipo de facilidades a la hora de búsqueda de actividades con una interfaz clara y sencilla.</p>
 
-<p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla (pasando por unos filtros de verificación) o proponer la idea (no hace falta estar registrado) en el foro para que otro usuario o administradores de la web decidan crearla. </p>
+<p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla o proponer la idea (no hace falta estar registrado) en el foro para que otro usuario o administradores de la web decidan crearla. </p>
 
 <p align="justify">En la página se podrán hacer grupos de usuarios que tengan afinidad, mismas motivaciones ... creando así un ambiente de comunidad. </p>
 
@@ -81,6 +79,9 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+
+![Canvas](SiteMap.png)
+
 * Labelling 
 
 | <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
