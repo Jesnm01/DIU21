@@ -112,11 +112,11 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 <h3><strong>HOMEPAGE</strong></h3>
 
-![Canvas](HomePage.png)
+![Canvas](HomePage.PNG)
 
 <h3><strong>LOGIN</strong></h3>
 
-![Canvas](Login.png)
+![Canvas](Login.PNG)
 
 ### Conclusiones  
 
