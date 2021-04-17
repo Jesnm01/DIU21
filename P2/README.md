@@ -92,7 +92,7 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 | Reservadas | Actividades reservadas por el usuario | 
 | Creadas | Actividades creadas por el usuario  | 
 | Crear Actividad | Interfaz de creación de actividad  | 
-| Amigos | List de amigos del usuario | 
+| Amigos | Lista de amigos del usuario | 
 | Perfil | Perfil de usuario con información personal  | 
 | Mensajeria | Chat del usuario en el que se muestran las conversaciones  | 
 | Grupos | Catálogo de grupos creados en la aplicación | 
