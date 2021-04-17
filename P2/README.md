@@ -13,7 +13,7 @@
 | <p align="center"><strong>Preguntas</strong></p> | <p align="center"><strong>Nuevas Ideas</strong></p> |
 |Cómo contactar con el guía de la actividad.| Permitir la creación de un tour|
 |No hay opción de compartir el evento por RSS| Solicitar ser el guía de una actividad.|
-|Quién verifica si esa actividad es real o fake| Permitir la creación y unión a grupos....|
+|Quién verifica si esa actividad es real o fake| Permitir la creación y unión a grupos|
 |Posibilidad de recompensar al guía económicamente/valorando positivamente tras un tour (exclusivamente al guía, no a la actividad cómo tal)| Posibilidad de proponer tours y que otro usuario o trabajador de empresa lo organice. | Dividir las actividades por categorías.
 
 ### PROPUESTA DE VALOR
