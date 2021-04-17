@@ -59,7 +59,6 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 | Unirse a Grupo | M | No | B | No |
 | Crear Grupo | M  | No | A | No |
 | Registrarse | A | B | A | B |
-| Checkear notificaciones | M | No | A | No |
 | Mandar mensaje usuario | M  | B | M | B | 
 | Añadir usuario amigo | M | No | M | No | 
 | Visitar perfil de otro usuario | M | B | M | B | 
