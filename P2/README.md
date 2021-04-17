@@ -8,7 +8,7 @@
 | Es muy sencillo unirse a un tour.| No distingue el nivel de experiencia de usuario para el uso de la web/app.|
 | Implantan medidas anti-covid en los grupos (límite de personas).| Contacto con el soporte de la página parcialmente escondido.|
 | Gran cantidad de tours por las ciudades más emblemáticas.| No permite ni crear ni proponer tours|
-| Facilita la reserva hasta 15 minutos antes (en muchos tours)|Permite reservar sin estar registrado, propenso a ataques|
+| Facilita la reserva hasta 15 minutos antes (en muchos tours)|No permite crear grupos o unirse grupos de tus mismos gustos |
 | Cancelación gratuita respetando los límites| |
 |  <p align="center"><strong>Preguntas</strong></p>  | <p align="center"><strong>Nuevas Ideas</strong></p> |
 |Cómo contactar con el guía de la actividad.|Permitir la creación de un tour|
