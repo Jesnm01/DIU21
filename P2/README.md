@@ -28,7 +28,7 @@
 
 <p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono. También, existirá un foro de dudas frecuentes en el que podremos investigar y hacer nuevas preguntas.</p>
 
-![Canvas](canvas.png)
+![Canvas](canvas2.png)
 
 
 ### TASK ANALYSIS
