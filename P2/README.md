@@ -18,11 +18,9 @@
 
 ### PROPUESTA DE VALOR
 
-<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Cualquier usuario podrá buscar actividades de su interés, grupos a los que unirse, crear un grupo ... y cómo innovación principal incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro de actividades por si un trabajador de la página u otro usuario  puede llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
+<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Cualquier usuario podrá buscar actividades de su interés, grupos a los que unirse, crear un grupo, etc. Y además, incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro de actividades por si los administradores de la página u otro usuario pueden llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
 
-<p align="justify">Además de ofrecer la posibilidad de unirse a una actividad, el usuario (si está registrado) también podrá crearla o proponer la idea (no hace falta estar registrado) en el foro para que otro usuario o administradores de la web decidan crearla. </p>
-
-<p align="justify">Existirá un foro de actividades a modo de tablón de anuncios dónde apareceran las actividades más próximas a su fin, actividades propuestas ...</p> 
+<p align="justify"> Dicho foro de actividades, aparte de recoger las propuestas de los usuarios, actuará a modo de tablón de anuncios dónde apareceran las actividades más próximas a su fin. </p> 
 
 <p align="justify">Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrán ver sus actividades, grupos, amigos, perfil y mensajería.</p>
 
