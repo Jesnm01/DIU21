@@ -26,7 +26,7 @@
 
 <p align="justify">Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrán ver sus actividades, grupos, amigos, perfil y mensajería.</p>
 
-<p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono. También, existirá un foro de dudas frecuentes en el que podremos investigar y hacer nuevas preguntas.</p>
+<p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono. También existirá un espacio que recoja las dudas más frecuentes de los usuarios.</p>
 
 ![Canvas](canvas2.png)
 
@@ -47,23 +47,23 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 | Buscar Actividades | A  | A  | B | A |
 | Proponer Actividad | M  | B  | A | B |
 | Reservar Actividad | A  | M  | B | M |
-| Crear Actividad    | No  | No | A | No |
-| Pagar actividad | M  | B  | B | B |
+| Crear Actividad    | No | No | A | No |
+| Pagar actividad    | M  | B  | B | B |
 | Valorar Actividad  | A | B | B | M |
-| Foro Actividades | A | B | M | M |
-| Buscar Grupos | A  | M  | B | M |
-| Unirse a Grupo | M | No | B | No |
-| Crear Grupo | M  | No | A | No |
-| Registrarse | A | B | A | B |
-| Mandar mensaje usuario | M  | B | M | B | 
-| Añadir usuario amigo | M | No | M | No | 
+| Foro Actividades   | A | B | M | M |
+| Buscar Grupos      | A  | M  | B | M |
+| Unirse a Grupo     | M | No | B | No |
+| Crear Grupo        | M  | No | A | No |
+| Registrarse        | A | B | A | B |
+| Mandar mensaje usuario         | M  | B | M | B | 
+| Añadir usuario amigo           | M | No | M | No | 
 | Visitar perfil de otro usuario | M | B | M | B | 
-| Foro Dudas | M  | B | B | M |
-| Checkear notificaciones | M | No | A | No |
-| Solicitar ser guía | M | B | A | B |
-| Leer Términos y Condiciones | M  | B  | A | B | 
-| Leer Acerca De | M  | B | M  | B | 
-| Elegir Idioma | B  | B  | B | A | 
+| FAQ                            | M  | B | B | M |
+| Checkear notificaciones        | M | No | A | No |
+| Solicitar ser guía             | M | B | A | B |
+| Leer Términos y Condiciones    | M  | B  | A | B | 
+| Leer Acerca De                 | M  | B | M  | B | 
+| Elegir Idioma                  | B  | B  | B | A | 
 
 
 ### ARQUITECTURA DE INFORMACIÓN
@@ -101,7 +101,7 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 | Ayuda | Sección de ayuda al cliente  | 
 | Contacto | Listado de distintas vías de ayuda | 
 | Asistente | Asistente online que interactua con el usuario para resolver sus dudas  | 
-| Foro Preguntas | Preguntas frecuentes ya resueltas | 
+| FAQ | Preguntas frecuentes ya resueltas | 
 
 ### Prototipo Lo-FI Wireframe 
 
