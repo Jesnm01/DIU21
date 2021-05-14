@@ -4,6 +4,8 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
+![Moodboard](moodboard.png)
+
 
 ## Landing Page
 
