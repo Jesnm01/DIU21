@@ -3,6 +3,7 @@
 
 
 ## Moodboard (diseño visual + logotipo)   
+<p align="justify"> Empezamos con un moodboard </p> 
 
 ![Moodboard](moodboard.PNG)
 
