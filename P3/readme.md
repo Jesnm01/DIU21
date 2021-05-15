@@ -10,9 +10,9 @@
 
 ## Landing Page
 <p align="justify"> Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional que tiene un propósito claro: atraer a gente a la aplicación demostrando sus principales características.</p>
- - Resalta un título y subtítulo atractivos para llamar la atención, tras una imagen representativa de Granada. 
- - Justo debajo, la acción principal (la CTA) bien visible que invita a descargar la aplicación, y otro botón al final de la página (que posiblemente no hiciera falta, pues la página no es tan extesa, ni está recargada con elementos que hagan perder el botón principal). 
- - Tras un primer impacto visual nada más entrar a la pagina, en la sección de beneficios se refuerza la idea que quiere transmitir la app apoyándonos con imágenes representativas extraidas de <a href="https://undraw.co/" target="_blank">Undraw</a>.
+- Resalta un título y subtítulo atractivos para llamar la atención, tras una imagen representativa de Granada. 
+- Justo debajo, la acción principal (la CTA) bien visible que invita a descargar la aplicación, y otro botón al final de la página (que posiblemente no hiciera falta, pues la página no es tan extesa, ni está recargada con elementos que hagan perder el botón principal). 
+- Tras un primer impacto visual nada más entrar a la pagina, en la sección de beneficios se refuerza la idea que quiere transmitir la app apoyándonos con imágenes representativas extraidas de <a href="https://undraw.co/" target="_blank">Undraw</a>.
 
 <p align="justify"> A la hora de realizar la landing page, hemos utilizado la herramienta <a href="https://webflow.com/" target="_blank">WebFlow</a>, utilizando como partida  una de sus plantillas predefinidas <a href="https://webflow.com/templates/html/velocity-multipurpose-website-template">Velocity</a>.</p>
 
