@@ -5,13 +5,13 @@
 ## Moodboard (diseño visual + logotipo)   
 <p align="justify"> Empezamos con un moodboard </p> 
 
-![Moodboard](moodboard.PNG)
+![Moodboard](Imagenes/moodboard.PNG)
 
 
 ## Landing Page
 Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional. En ella resalta un título y un subtítlo atractivos para llamar la atención, tras una imagen representativa de Granada, y un CTA bien visible que invita a descargar la aplicación. A la hora de realizar la landing page, hemos utilizado la herramienta WebFlow basándonos en una de sus plantillas predefinidas 'Velocity'.
 
-![Landing_Page](landing_page.png)
+![Landing_Page](Imagenes/landing_page.png)
 
 Se puede ver la página en este enlace:
 https://meetus.webflow.io/
