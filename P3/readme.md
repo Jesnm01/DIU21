@@ -11,7 +11,7 @@
 ## Landing Page
 A la hora de realizar la landing page, hemos utilizado la herramienta WebFlow basándonos en una de sus plantillas predefinidas 'Velocity'.
 
-![Landing_Page](landing_page.png)
+![Landing_Page](landing_page.PNG)
 
 Se puede ver la página en este enlace:
 https://meetus.webflow.io/
@@ -19,7 +19,7 @@ https://meetus.webflow.io/
 
 ## Mockup: LAYOUT HI-FI
 
-## Simluación
+## Simulación
 
 
 https://user-images.githubusercontent.com/79632078/118360263-27549880-b587-11eb-8447-6f02131b2986.mp4
