@@ -11,6 +11,8 @@
 ## Landing Page
 A la hora de realizar la landing page, hemos utilizado la herramienta WebFlow basándonos en una de sus plantillas predefinidas 'Velocity'.
 
+![Landing_Page](landing_page.PNG)
+
 Se puede ver la página en este enlace:
 https://meetus.webflow.io/
 
