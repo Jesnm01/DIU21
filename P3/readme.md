@@ -19,13 +19,13 @@ https://meetus.webflow.io/
 
 ## Mockup: LAYOUT HI-FI
 
-|  Inicio | Buscar |  Ayuda |
+|  Portada | SignUp |  SignIn |
 |---|---|---|
 | ![](Imagenes/Portada.png)  | ![](Imagenes/SignUp.png)  | ![](Imagenes/SignIn.png)  |
 
-|  Lista de actividades | Actividad  |
+| Perfil | Actividades | Grupos |
 |---|---|
-| ![](img/layout4.png)  | ![](img/layout5.png)  |
+| ![](Imagenes/Perfil.png)  | ![](Imagenes/Actividades.png)  | ![](Imagenes/Grupos.png)  |
 
 ## Simulación
 
