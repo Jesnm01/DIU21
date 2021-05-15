@@ -9,7 +9,7 @@
 
 
 ## Landing Page
-A la hora de realizar la landing page, hemos utilizado la herramienta WebFlow basándonos en una de sus plantillas predefinidas 'Velocity'.
+Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional. En ella resalta un título y un subtítlo atractivos para llamar la atención, tras una imagen representativa de Granada, y un CTA bien visible que invita a descargar la aplicación. A la hora de realizar la landing page, hemos utilizado la herramienta WebFlow basándonos en una de sus plantillas predefinidas 'Velocity'.
 
 ![Landing_Page](landing_page.png)
 
