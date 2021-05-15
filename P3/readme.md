@@ -26,10 +26,16 @@ Se puede ver la página en funcionamiento en este enlace <a href="https://meetus
 
 <h3><strong>Diseño Logotipo</strong></h3>
 
-<p align="justify">Para la realización del logo primeramente pensamos cómo podríamos representar el concepto de nuestro proyecto visualmente. En un principio decidimos optar por un diseño relacionado con la naturaleza (en parte debido a la elección del moodboard, árboles, senderos, etc), pero la idea del proyecto es que se pueden realizar muchos otros tipos de actividades aparte de aquellas relacionadas con la naturaleza. 
-Finalmente decidimos que debíamos representar la particularidad de la página respecto a los grupos, y por ello optamos por colocar a 2 'viajeros' en lo que parece ser un encuentro. Todo ello rodeado por el típico símbolo que representa la ubicación, refiriéndose a la multitud de sitios en los cuáles poder quedar y organizar una actividad.</p>
+<p align="justify">Para la realización del logo primeramente pensamos cómo podríamos representar el concepto de nuestro proyecto visualmente. En un principio decidimos optar por un diseño relacionado con la naturaleza (en parte debido a la elección del moodboard, árboles, senderos, etc), pero la idea del proyecto es que se pueden realizar muchos otros tipos de actividades aparte de aquellas relacionadas con la naturaleza.</p>
 
-![Logo](Imagenes/logo.png) ![Logo_letras](Imagenes/logo_con_letras.PNG)
+<p align="justify">Finalmente decidimos que debíamos representar la particularidad de la página respecto a los grupos, y por ello optamos por colocar a 2 'viajeros' en lo que parece ser un encuentro. Todo ello rodeado por el típico símbolo que representa la ubicación, refiriéndose a la multitud de sitios en los cuáles poder quedar y organizar una actividad.</p>
+
+<p align="justify">Podemos representar la marca solamente con la parte simbólica, o también combinándolo con texto, lo cual puede venir bien en según que casos.</p>
+
+|  Isotipo | Imagotipo |
+|---|---|
+| ![](Imagenes/logo.png)  | ![](Imagenes/logo_con_letras.PNG)  |
+
 
 <h3><strong>Paleta de Colores</strong></h3>
 
