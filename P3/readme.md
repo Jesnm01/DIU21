@@ -3,15 +3,18 @@
 
 
 ## Moodboard (diseño visual + logotipo)   
-<p align="justify"> Empezamos con un moodboard </p> 
+<p align="justify"> Empezamos con un moodboard, que va a sentar las bases de la apariencia visual de nuestra aplicación en cuanto a colores, tipografías y set de iconos entre otras cosas. Estos aspectos los desarrollaremos un poco más en el apartado de Guidelines. Se ha creado el moodboard a través de <a href="https://milanote.com">Milanote</a>. </p>
 
 ![Moodboard](Imagenes/moodboard.PNG)
 
 
 ## Landing Page
-<p align="justify"> Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional. Resalta un título y subtítlo atractivos para llamar la atención, tras una imagen representativa de Granada. Justo debajo un CTA bien visible que invita a descargar la aplicación, y otro al final de la página. Y en la sección de beneficios, se refuerza la idea que se queire expresar mediante imágenes representativos extraidos de <a href="https://undraw.co/" target="_blank">Undraw</a> </p>
+<p align="justify"> Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional que tiene un propósito claro: atraer a gente a la aplicación demostrando sus principales características.</p>
+ - Resalta un título y subtítulo atractivos para llamar la atención, tras una imagen representativa de Granada. 
+ - Justo debajo, la acción principal (la CTA) bien visible que invita a descargar la aplicación, y otro botón al final de la página (que posiblemente no hiciera falta, pues la página no es tan extesa, ni está recargada con elementos que hagan perder el botón principal). 
+ - Tras un primer impacto visual nada más entrar a la pagina, en la sección de beneficios se refuerza la idea que quiere transmitir la app apoyándonos con imágenes representativas extraidas de <a href="https://undraw.co/" target="_blank">Undraw</a>.
 
-<p align="justify"> A la hora de realizar la landing page, hemos utilizado la herramienta <a href="https://webflow.com/" target="_blank">WebFlow</a> basándonos en una de sus plantillas predefinidas 'Velocity'.</p>  
+<p align="justify"> A la hora de realizar la landing page, hemos utilizado la herramienta <a href="https://webflow.com/" target="_blank">WebFlow</a>, utilizando como partida  una de sus plantillas predefinidas <a href="https://webflow.com/templates/html/velocity-multipurpose-website-template">Velocity</a>.</p>
 
 ![Landing_Page](Imagenes/landing_page.png)
 
