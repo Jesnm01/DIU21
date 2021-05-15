@@ -13,7 +13,7 @@
 
 - Resalta un título y subtítulo atractivos para llamar la atención, tras una imagen representativa de Granada. 
 - Justo debajo, la acción principal (la CTA) bien visible que invita a descargar la aplicación, y otro botón al final de la página (que posiblemente no hiciera falta, pues la página no es tan extesa, ni está recargada con elementos que hagan perder el botón principal). 
-- Tras un primer impacto visual nada más entrar a la pagina, en la sección de beneficios se refuerza la idea que quiere transmitir la app apoyándonos con imágenes representativas extraidas de <a href="https://undraw.co/" target="_blank">Undraw</a>.
+- Tras un primer impacto visual nada más entrar a la pagina, en la sección de beneficios se refuerza la idea que quiere transmitir la app apoyándonos con imágenes representativas extraidas de <a href="https://undraw.co/" target="_blank">Undraw</a>, que ofrece diseños con cualquier color que se indique, por lo que se adaptan perfectamente a cualquier paleta de colores.
 
 <p align="justify"> A la hora de realizar la landing page, hemos utilizado la herramienta <a href="https://webflow.com/" target="_blank">WebFlow</a>, utilizando como partida  una de sus plantillas predefinidas <a href="https://webflow.com/templates/html/velocity-multipurpose-website-template">Velocity</a>.</p>
 
@@ -41,19 +41,20 @@ Se puede ver la página en funcionamiento en este enlace <a href="https://meetus
 
 <h3><strong>Paleta de Colores</strong></h3>
 
-<p align="justify">Para la paleta de colores optamos en primera instancia por unos tonos verdosos, pero rápidamente vimos que no era muy atractivo a la vista. Optamos por tanto como **color primario** que usaremos para la barra de navegación inferior y la barra superior, un **color cálido** con tonos amarillos/marrones representando el material de múltiples construcciones en Granada, cómo por ejemplo la Alhambra; delegando así el uso del verde claro y el azul como **colores secundarios** para otros componentes como botones, barras de deslizamiento, o algunos encabezados. **Blanco** `#FDFCFB`</p>
+<p align="justify">Para la paleta de colores optamos en primera instancia por unos tonos verdosos, pero rápidamente vimos que no era muy atractivo a la vista. Optamos por tanto como <strong>color primario</strong> que usaremos para la barra de navegación inferior y la barra superior, un <strong>color cálido</strong> con tonos amarillos/marrones representando el material de múltiples construcciones en Granada, cómo por ejemplo la Alhambra; delegando así el uso del verde claro y el azul como <strong>colores secundarios</strong> para otros componentes como botones, barras de deslizamiento, o algunos encabezados.</p>
 
 <h3><strong>Iconografía</strong></h3>
 
-<p align="justify">Este paso fue relativamente rápido dado que optamos por los iconos que proporciona Google compatibles con AdobeXD</p>
+<p align="justify">En cuanto a los <a href="https://fonts.google.com/icons">iconos</a> hemos usado los que recomienda Google en su guideline, la opción más sencilla y la que más se adapta a lo que es el Material Desing.</p>
 
 <h3><strong>Tipografía</strong></h3>
 
-<p align="justify">Diferenciamos 2 tipos de letras, la MontSerrat para títulos/botones... que es un tipo de letra más artística y por otro lado para textos más tipo párrafos, filtros ... optamos por la NotoSans que tiene un aspecto más formal.</p>
+<p align="justify">Principalmente utilizamos 2 estilos de fuente:</p>
+- __MontSerrat__, una fuente sans-serif que gana mucho en sus variantes de más peso (como medium, semi-bold o bold) por lo que la usamos mayoritariamente para títulos, encabezados y algunos botones.
+- __Noto Sans__, otra fuente sans-serif y fácil de leer, que utilizamos para el cuerpo y subtítulos. Es una fuente especialmente diseñada por Google con el objetivo de poder ser usada en cualquier parte del mundo, teniendo soporte para más de 800 lenguas diferentes.
 
-<h3><strong>Patrón de Diseño</strong></h3>
+<h3><strong>Patrones de Diseño</strong></h3>
 
-<p align="justify">Para el diseño nos hemos orientado en base al UI Design de Google (Material Design).</p>
 
 ## Mockup: LAYOUT HI-FI
 
