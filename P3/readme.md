@@ -29,7 +29,7 @@ https://meetus.webflow.io/
 |---|---|
 | ![](Imagenes/Perfil.png)  | ![](Imagenes/Grupos.png)  | 
 
-| Actividades | Actividad |
+| Actividades | Descripcion Actividad |
 |---|---|
 | ![](Imagenes/Actividades.png)  | ![](Imagenes/DescripcionActividad.png)  |
 
