@@ -1,5 +1,5 @@
 # DIU - Practica 3, entregables
-<p align="justify"> En esta tercera práctica ya nos enfocamos más en los diseños finales y en el aspecto visual. Para ello, necesitaremos un tablero de inspiracion, estilos de fuentes, una iconografía concreta, paletas de colores, y seguir una serie de patrones de diseño entre otras cosas. Lo vemos a continuación. </p> 
+
 
 
 ## Moodboard (diseño visual + logotipo)   
