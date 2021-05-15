@@ -29,6 +29,18 @@ decidimos que debíamos representar la particularidad de la página respecto a l
 (de ahí que el monigote tenga mochila) y parece que se están dando la mano para conocerse. A su vez, están rodeados por un símbolo
 que representaría la ubicación refiriéndose a la multitud de sitios sobre los cuáles hay actividades en nuestra web.</p>
 
+<h3><strong>Paleta de Colores</strong></h3>
+
+<p align="justify">Para la paleta de colores optamos primeramente por unos tonos verdosos pero vimos que no era muy alegre a la vista tanto verde en el diseño y optamos por colores cómo el amarillo/marrón representando el material de múltiples construcciones en Granada cómo por ejemplo la Alhambra y el azul del cielo granadino.</p>
+
+<h3><strong>Iconografía</strong></h3>
+
+<p align="justify">Este paso fue relativamente rápido dado que optamos por los iconos que proporciona Google compatibles con AdobeXD</p>
+
+<h3><strong>Tipografía</strong></h3>
+
+<p align="justify">Diferenciamos 2 tipos de letras:<br>La MontSerrat para títulos/botones... que es un tipo de letra más artística y por otro lado para textos más tipo párrafos, filtros ... optamos por la NotoSans que tiene un aspecto más formal.</p>
+
 ## Mockup: LAYOUT HI-FI
 
 |  Portada | SignUp |  SignIn |
