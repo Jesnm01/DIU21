@@ -21,7 +21,7 @@ https://meetus.webflow.io/
 
 |  Inicio | Buscar |  Ayuda |
 |---|---|---|
-| ![](Imagenes/Portada.png)  | ![](Imagenes/SignIn.png)  | ![](Imagenes/LogIn.png)  |
+| ![](Imagenes/Portada.png)  | ![](Imagenes/SignUp.png)  | ![](Imagenes/SignIn.png)  |
 
 |  Lista de actividades | Actividad  |
 |---|---|
