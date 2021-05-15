@@ -13,6 +13,12 @@
 
 ## Mockup: LAYOUT HI-FI
 
+## Simluación
+
+
+https://user-images.githubusercontent.com/79632078/118360263-27549880-b587-11eb-8447-6f02131b2986.mp4
+
+
 
 ## Documentación: Publicación del Case Study
 
