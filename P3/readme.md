@@ -39,7 +39,11 @@ que representaría la ubicación refiriéndose a la multitud de sitios sobre los
 
 <h3><strong>Tipografía</strong></h3>
 
-<p align="justify">Diferenciamos 2 tipos de letras:<br>La MontSerrat para títulos/botones... que es un tipo de letra más artística y por otro lado para textos más tipo párrafos, filtros ... optamos por la NotoSans que tiene un aspecto más formal.</p>
+<p align="justify">Diferenciamos 2 tipos de letras, la MontSerrat para títulos/botones... que es un tipo de letra más artística y por otro lado para textos más tipo párrafos, filtros ... optamos por la NotoSans que tiene un aspecto más formal.</p>
+
+<h3><strong>Patrón de Diseño</strong></h3>
+
+<p align="justify">Para el diseño nos hemos orientado en base al UI Design de Google (Material Design).</p>
 
 ## Mockup: LAYOUT HI-FI
 
