@@ -24,13 +24,15 @@ Se puede ver la página en funcionamiento en este enlace <a href="https://meetus
 
 ## Guidelines y Patrones de Diseño
 
+<p align="justify">En términos generales, a la hora de realizar el Mockup de la aplicación móvil, nos hemos adaptado en la medida de lo posible a los estilos y guías de diseño de Google. Ofrecen una guía extensa de estos estilos en <a href="https://material.io">material.io</a> acerca del Material Theming, principios de un buen uso de la iconografía (aspecto visual de los iconos, tamaños y proporciones, iconos animados, etc), componentes predefinidos listos para usar, uso de colores y como aplicarlos en la UI, etc. </p>
+
 <h3><strong>Diseño Logotipo</strong></h3>
 
 <p align="justify">Para la realización del logo primeramente pensamos cómo podríamos representar el concepto de nuestro proyecto visualmente. En un principio decidimos optar por un diseño relacionado con la naturaleza (en parte debido a la elección del moodboard, árboles, senderos, etc), pero la idea del proyecto es que se pueden realizar muchos otros tipos de actividades aparte de aquellas relacionadas con la naturaleza.</p>
 
 <p align="justify">Finalmente decidimos que debíamos representar la particularidad de la página respecto a los grupos, y por ello optamos por colocar a 2 'viajeros' en lo que parece ser un encuentro. Todo ello rodeado por el típico símbolo que representa la ubicación, refiriéndose a la multitud de sitios en los cuáles poder quedar y organizar una actividad.</p>
 
-<p align="justify">Podemos representar la marca solamente con la parte simbólica, o también combinándolo con texto, lo cual puede venir bien en según que casos.</p>
+<p align="justify">Podemos representar la marca solamente con la parte simbólica, o también combinándolo con texto, lo cual nos da mayor flexibilidad.</p>
 
 |  Isotipo | Imagotipo |
 |---|---|
@@ -39,7 +41,7 @@ Se puede ver la página en funcionamiento en este enlace <a href="https://meetus
 
 <h3><strong>Paleta de Colores</strong></h3>
 
-<p align="justify">Para la paleta de colores optamos primeramente por unos tonos verdosos pero vimos que no era muy alegre a la vista tanto verde en el diseño y optamos por colores cómo el amarillo/marrón representando el material de múltiples construcciones en Granada cómo por ejemplo la Alhambra y el azul del cielo granadino.</p>
+<p align="justify">Para la paleta de colores optamos en primera instancia por unos tonos verdosos, pero rápidamente vimos que no era muy atractivo a la vista. Optamos por tanto como **color primario** que usaremos para la barra de navegación inferior y la barra superior, un **color cálido** con tonos amarillos/marrones representando el material de múltiples construcciones en Granada, cómo por ejemplo la Alhambra; delegando así el uso del verde claro y el azul como **colores secundarios** para otros componentes como botones, barras de deslizamiento, o algunos encabezados. **Blanco** `#FDFCFB`</p>
 
 <h3><strong>Iconografía</strong></h3>
 
