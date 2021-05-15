@@ -18,6 +18,8 @@
 Se puede ver la página en este enlace:
 https://meetus.webflow.io/
 
+![](Imagenes/Portada.png) 
+
 
 ## Mockup: LAYOUT HI-FI
 
