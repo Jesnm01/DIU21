@@ -18,6 +18,16 @@
 Se puede ver la página en este enlace:
 https://meetus.webflow.io/
 
+## Guidelines y Patrón de Diseño
+
+<h3><strong>Diseño Logo</strong></h3>
+
+<p align="justify">Para la realización del logo primeramente pensamos cómo podríamos representar el concepto de nuestro proyecto 
+visualmente. En un principio decidimos optar por un logo relacionado con la naturaleza (árboles, sendero ...) pero vimos que 
+en nuestra web se pueden realizar muchos otros tipos de actividades aparte de aquellas relacionadas con la naturaleza. Finalmente
+decidimos que debíamos representar la particularidad de la página respecto a los grupos y por ellos optamos por colocar a 2 viajeros 
+(de ahí que el monigote tenga mochila) y parece que se están dando la mano para conocerse. A su vez, están rodeados por un símbolo
+que representaría la ubicación refiriéndose a la multitud de sitios sobre los cuáles hay actividades en nuestra web.</p>
 
 ## Mockup: LAYOUT HI-FI
 
