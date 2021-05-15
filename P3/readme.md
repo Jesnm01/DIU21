@@ -42,5 +42,5 @@ https://user-images.githubusercontent.com/79632078/118360263-27549880-b587-11eb-
 
 ## Documentación: Publicación del Case Study
 
-Esta práctica ha sido bastante interesante de realizar puesto que ha dado más juego con el tema de diseñar nuestra página/aplicación (colores, imágenes, tipografía ...). Al principio nos costó escoger la paleta de colores y la tipografía ya que tratamos de encontrar las que fueran más acorde con nuestro proyecto, fue un proceso complejo. Posteriormente la realización de los diseños móviles fue muy entretenida y también hizo que replantearamos ciertos aspectos que antes teníamos muy claros.                          
+Esta práctica ha sido bastante interesante de realizar puesto que ha dado más juego con el tema de diseñar nuestra página/aplicación (colores, imágenes, tipografía ...). Al principio nos costó escoger la paleta de colores y la tipografía ya que tratamos de encontrar las que fueran más acorde con nuestro proyecto, fue un proceso complejo. Posteriormente la realización de los diseños móviles fue muy entretenida y también hizo que replantearamos ciertos aspectos que antes teníamos muy claros. Hemos quedado bastante satisfechos con el resultado obtenido en esta práctica.                         
  
