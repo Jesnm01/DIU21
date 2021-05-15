@@ -28,11 +28,11 @@ https://meetus.webflow.io/
 | ![](Imagenes/Portada.png)  | ![](Imagenes/SignUp.png)  | ![](Imagenes/SignIn.png)  |
 
 | Perfil | Grupos | 
-|---|---|---|
+|---|---|
 | ![](Imagenes/Perfil.png)  | ![](Imagenes/Grupos.png)  | 
 
 | Actividades | Actividad |
-|---|
+|---|---|
 | ![](Imagenes/Actividades.png)  | ![](Imagenes/DescripcionActividad.png)  |
 
 ## Simulación
