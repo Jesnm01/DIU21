@@ -9,7 +9,9 @@
 
 
 ## Landing Page
-Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional. En ella resalta un título y un subtítlo atractivos para llamar la atención, tras una imagen representativa de Granada, y un CTA bien visible que invita a descargar la aplicación. A la hora de realizar la landing page, hemos utilizado la herramienta WebFlow basándonos en una de sus plantillas predefinidas 'Velocity'.
+<p align="justify"> Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional. Resalta un título y subtítlo atractivos para llamar la atención, tras una imagen representativa de Granada. Justo debajo un CTA bien visible que invita a descargar la aplicación, y otro al final de la página. </p>
+
+<p align="justify"> A la hora de realizar la landing page, hemos utilizado la herramienta WebFlow basándonos en una de sus plantillas predefinidas 'Velocity'. Y en la sección de beneficios, se refuerza la idea que se queire expresar mediante imágenes representativos extraidos de [undraw](https://undraw.co/) </p>  
 
 ![Landing_Page](Imagenes/landing_page.png)
 
