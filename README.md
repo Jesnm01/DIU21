@@ -27,7 +27,8 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+<p align="justify>
+Antes de desarrollar MeetUs realizamos la comparación de varias plataformas que competían entre ellas (Civitatis, SpainInfo, BuscoUnViaje). Nos acabamos quedando por civitatis concluyendo que era la más completa (más información sobre la decisión <a href="https://github.com/angelsc21/DIU21/tree/master/P1">Milanote</a>. </p>). 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
