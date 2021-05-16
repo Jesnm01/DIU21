@@ -87,5 +87,12 @@ https://user-images.githubusercontent.com/79632078/118360263-27549880-b587-11eb-
 
 ## Documentación: Publicación del Case Study
 
-Esta práctica ha sido bastante interesante de realizar puesto que ha dado más juego con el tema de diseñar nuestra página/aplicación (colores, imágenes, tipografía ...). Al principio nos costó escoger la paleta de colores y la tipografía ya que tratamos de encontrar las que fueran más acorde con nuestro proyecto, fue un proceso complejo. Posteriormente la realización de los diseños móviles fue muy entretenida y también hizo que replantearamos ciertos aspectos que antes teníamos muy claros. Hemos quedado bastante satisfechos con el resultado obtenido en esta práctica.                         
- 
+> Valoración del trabajo y problemas surgidos
+
+En términos generales esta práctica nos ha requerido mucho esfuerzo y tiempo, y nos hace ver lo difícil que es realizar un buen diseño, ya sea de una interfaz de usuario funcional, o de una landing page llamativa. Hay que tener muy claro en todo momento los estilos y las guías a seguir, escoger una buena paleta de colores (que no es fácil) y saber qué tipografías son mejores para la lectura, o cuáles son buenas para enfatizar y dar fuerza en según que situaciones. 
+
+Ha sido bastante interesante de realizar puesto que ya nos ponemos manos a la obra en diseñar nuestra propia página/aplicación. Al principio nos costó escoger la paleta de colores, y cambiamos varias veces de tipografía puesto que no se adecuaban bien con nuestro proyecto. Ha sido un proceso complejo y de alguna manera entretenido, haciendo replantearnos ciertos aspectos que parecía teníamos muy claros, por ejemplo algunos ligeros cambios con respecto al diseño de los LO-FI Wireframes de la práctica anterior para adaptarnos mejor al resultado que queríamos.
+
+Comentar también nuestro paso por Adobe XD. Al principio la curva de aprendizaje es compleja ya que hay bastantes menús y la interacción del ratón con los elementos complejos es muy extraña (no sabes muy bien donde pinchar para seleccionar algo). En cambio es bastante flexible y tiene muchas opciones de transiciones y animaciones que se pueden personalizar, y nos permite fácilmente simular el funcionamiento real de la app.
+
+Aunque la aplicación no esté terminada completamente, ya que se ha acotado y simplificado todo este proceso en unas pocas semanas, estamos bastante satisfechos con el resultado.
