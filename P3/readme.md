@@ -79,7 +79,7 @@ En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil
 | ![](Imagenes/Actividades.png)  | ![](Imagenes/Descripción_Actividad.png)  |
 
 ## Simulación
-
+> Podemos ver en este vídeo la simulación de nuestra app
 
 https://user-images.githubusercontent.com/79632078/118360263-27549880-b587-11eb-8447-6f02131b2986.mp4
 
@@ -87,13 +87,13 @@ https://user-images.githubusercontent.com/79632078/118360263-27549880-b587-11eb-
 
 ## Documentación: Publicación del Case Study
 
-> Valoración del trabajo y problemas surgidos
+> Valoración del equipo y problemas surgidos
 
 <p align="justify">En términos generales esta práctica nos ha requerido mucho esfuerzo y tiempo, y nos hace ver lo difícil que es realizar un buen diseño, ya sea de una interfaz de usuario funcional, o de una landing page llamativa. Hay que tener muy claro en todo momento los estilos y las guías a seguir, escoger una buena paleta de colores (que no es fácil) y saber qué tipografías son mejores para la lectura, o cuáles son buenas para enfatizar y dar fuerza en según que situaciones. </p>
 
 <p align="justify">Ha sido bastante interesante de realizar puesto que ya nos ponemos manos a la obra en diseñar nuestra propia página/aplicación. Al principio nos costó escoger la paleta de colores, y cambiamos varias veces de tipografía puesto que no se adecuaban bien con nuestro proyecto. Ha sido un proceso complejo y de alguna manera entretenido, haciendo replantearnos ciertos aspectos que parecía teníamos muy claros, por ejemplo algunos ligeros cambios con respecto al diseño de los LO-FI Wireframes de la práctica anterior para adaptarnos mejor al resultado que queríamos.</p>
 
-<p align="justify">Comentar también nuestro paso por Adobe XD. Al principio la curva de aprendizaje es compleja ya que hay bastantes menús, la interacción del ratón con los elementos complejos es muy extraña (no sabes muy bien donde pinchar para seleccionar algo), y en nuestro caso, a la hora de trabajar de manera cooperativa el programa daba algunos fallos graves y no iba fluido que digamos. En cambio es bastante flexible, ya que permite hacer prácticamente cualquier diseño si conoces bien la herramienta, y tiene bastantes opciones de transiciones y animaciones que se pueden personalizar, y facilitando también simular el funcionamiento real de la app.</p>
+<p align="justify">Comentar también nuestro paso por Adobe XD. Al principio la curva de aprendizaje es compleja ya que hay bastantes menús, la interacción del ratón con los elementos complejos es muy extraña (no sabes muy bien donde pinchar para seleccionar algo), y en nuestro caso, a la hora de trabajar de manera cooperativa el programa daba algunos errores graves de ejecución y no iba fluido que digamos. En cambio es bastante flexible, ya que permite hacer prácticamente cualquier diseño si conoces bien la herramienta, y tiene bastantes opciones de transiciones y animaciones que se pueden personalizar, y facilitando también simular el funcionamiento real de la app.</p>
 
 <p align="justify">Por lo demás, estamos bastante satisfechos con el resultado.</p>
 
