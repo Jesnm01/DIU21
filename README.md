@@ -44,7 +44,7 @@ En la búsqueda de errores creamos 2 experiencias de usuario con las personas fi
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-Realizamos un análisis exhaustivo de Civitatis para distinguir sus puntos fuertes y sus debilidades. Acabó con una valoración de 79/100, los detalles del estudio se encuentran <a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a><a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a>.
+Realizamos un análisis exhaustivo de Civitatis para distinguir sus puntos fuertes y sus debilidades. Acabó con una valoración de 79/100, los detalles del estudio se encuentran <a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a>.
 
 
 ## Paso 2. UX Design  
