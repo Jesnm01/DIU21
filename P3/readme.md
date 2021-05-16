@@ -58,7 +58,7 @@ En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil
 
 - **Navegación**: usamos principalmente navegación mediante barra inferior para saltar a los apartados que más se van a usar, saltos en la jerarquía desde el logo (**_Bottom Navigation Bar_**, **_Home Link_**)
 - **Contenido**: cartas de contenido para presentar cada actividad en el listado de actividades durante la búsqueda, posibildad de seleccionar una fecha en el calendario de filtros de actividades, un scroll continuo para contenidos que no caben en una sola página (**_Cards_**, **_Calendar Picker_**, **_Continuous Scrolling_**)
-- Búsqueda: barra de búsqueda persistente (con el campo de texto siempre visible), y filtrado de resultados (**_Search Box_**, **_Search Filter_**)
+- **Búsqueda**: barra de búsqueda persistente (con el campo de texto siempre visible), y filtrado de resultados (**_Search Box_**, **_Search Filter_**)
 - **Interacción básica**: botones que realizan acciones concretas como cambiar de página o reservar una actividad, y el deslizado de imágenes en el home (**_Action Button_**, **_Slideshow_**)
 - **Onboarding**: creación de una cuenta o inicio de sesión (**_Account Registration_**, **_Sign In_**)
 - **Selector de idiomas**: (**_Language Selector_**)
