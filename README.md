@@ -15,8 +15,8 @@ Logotipo:
 ![Logo](P3/Imagenes/logo.png)
 
 Miembros
- * :bust_in_silhouette:   Jesús Navarro Merino   :octocat: ([@Jesnm01](https://github.com/Jesnm01))
- * :bust_in_silhouette:  Ángel Solano Corral     :octocat: ([@angelsc21](https://github.com/angelsc21))
+ * :boy:   Jesús Navarro Merino   :octocat: ([@Jesnm01](https://github.com/Jesnm01))
+ * :boy:  Ángel Solano Corral     :octocat: ([@angelsc21](https://github.com/angelsc21))
 
 ----- 
 
