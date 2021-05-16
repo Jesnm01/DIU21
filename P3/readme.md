@@ -54,7 +54,7 @@ Principalmente utilizamos 2 estilos de fuente:
 * __Noto Sans__, otra fuente sans-serif y fácil de leer, que utilizamos para el cuerpo y subtítulos. Es una fuente especialmente diseñada por Google con el objetivo de poder ser usada en cualquier parte del mundo, teniendo soporte para más de 800 lenguas diferentes.
 
 <h3><strong>Patrones de Diseño</strong></h3>
-<p>En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil y sobre todo en la simulación podemos ver claramente algunos (se han extraídos de <a href="http://www.welie.com/patterns/">welie</a> y <a href="http://ui-patterns.com/patterns">ui-patterns</a>): </p>
+En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil y sobre todo en la simulación podemos ver claramente algunos (se han extraídos de <a href="http://www.welie.com/patterns/">welie</a> y <a href="http://ui-patterns.com/patterns">ui-patterns</a>):
 
 - **Navegación**: usamos principalmente navegación mediante barra inferior para saltar a los apartados que más se van a usar, saltos en la jerarquía desde el logo (**_Bottom Navigation Bar_**, **_Home Link_**)
 - **Contenido**: cartas de contenido para presentar cada actividad en el listado de actividades durante la búsqueda, posibildad de seleccionar una fecha en el calendario de filtros de actividades, un scroll continuo para contenidos que no caben en una sola página (**_Cards_**, **_Calendar Picker_**, **_Continuous Scrolling_**)
@@ -89,10 +89,17 @@ https://user-images.githubusercontent.com/79632078/118360263-27549880-b587-11eb-
 
 > Valoración del trabajo y problemas surgidos
 
-En términos generales esta práctica nos ha requerido mucho esfuerzo y tiempo, y nos hace ver lo difícil que es realizar un buen diseño, ya sea de una interfaz de usuario funcional, o de una landing page llamativa. Hay que tener muy claro en todo momento los estilos y las guías a seguir, escoger una buena paleta de colores (que no es fácil) y saber qué tipografías son mejores para la lectura, o cuáles son buenas para enfatizar y dar fuerza en según que situaciones. 
+<p align="justify">En términos generales esta práctica nos ha requerido mucho esfuerzo y tiempo, y nos hace ver lo difícil que es realizar un buen diseño, ya sea de una interfaz de usuario funcional, o de una landing page llamativa. Hay que tener muy claro en todo momento los estilos y las guías a seguir, escoger una buena paleta de colores (que no es fácil) y saber qué tipografías son mejores para la lectura, o cuáles son buenas para enfatizar y dar fuerza en según que situaciones. </p>
 
-Ha sido bastante interesante de realizar puesto que ya nos ponemos manos a la obra en diseñar nuestra propia página/aplicación. Al principio nos costó escoger la paleta de colores, y cambiamos varias veces de tipografía puesto que no se adecuaban bien con nuestro proyecto. Ha sido un proceso complejo y de alguna manera entretenido, haciendo replantearnos ciertos aspectos que parecía teníamos muy claros, por ejemplo algunos ligeros cambios con respecto al diseño de los LO-FI Wireframes de la práctica anterior para adaptarnos mejor al resultado que queríamos.
+<p align="justify">Ha sido bastante interesante de realizar puesto que ya nos ponemos manos a la obra en diseñar nuestra propia página/aplicación. Al principio nos costó escoger la paleta de colores, y cambiamos varias veces de tipografía puesto que no se adecuaban bien con nuestro proyecto. Ha sido un proceso complejo y de alguna manera entretenido, haciendo replantearnos ciertos aspectos que parecía teníamos muy claros, por ejemplo algunos ligeros cambios con respecto al diseño de los LO-FI Wireframes de la práctica anterior para adaptarnos mejor al resultado que queríamos.</p>
 
-Comentar también nuestro paso por Adobe XD. Al principio la curva de aprendizaje es compleja ya que hay bastantes menús y la interacción del ratón con los elementos complejos es muy extraña (no sabes muy bien donde pinchar para seleccionar algo). En cambio es bastante flexible y tiene muchas opciones de transiciones y animaciones que se pueden personalizar, y nos permite fácilmente simular el funcionamiento real de la app.
+<p align="justify">Comentar también nuestro paso por Adobe XD. Al principio la curva de aprendizaje es compleja ya que hay bastantes menús, la interacción del ratón con los elementos complejos es muy extraña (no sabes muy bien donde pinchar para seleccionar algo), y en nuestro caso, a la hora de trabajar de manera cooperativa el programa daba algunos fallos graves y no iba fluido que digamos. En cambio es bastante flexible, ya que permite hacer prácticamente cualquier diseño si conoces bien la herramienta, y tiene bastantes opciones de transiciones y animaciones que se pueden personalizar, y facilitando también simular el funcionamiento real de la app.</p>
 
-Aunque la aplicación no esté terminada completamente, ya que se ha acotado y simplificado todo este proceso en unas pocas semanas, estamos bastante satisfechos con el resultado.
+<p align="justify">Por lo demás, estamos bastante satisfechos con el resultado.</p>
+
+
+
+
+
+
+
