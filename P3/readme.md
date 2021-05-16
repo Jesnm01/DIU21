@@ -54,21 +54,7 @@ Principalmente utilizamos 2 estilos de fuente:
 * Noto Sans, otra fuente sans-serif y fácil de leer, que utilizamos para el cuerpo y subtítulos. Es una fuente especialmente diseñada por Google con el objetivo de poder ser usada en cualquier parte del mundo, teniendo soporte para más de 800 lenguas diferentes.
 
 <h3><strong>Patrones de Diseño</strong></h3>
-
-- Resalta un __título y subtítulo atractivos__ para llamar la atención, tras una imagen representativa de Granada. 
-- Justo debajo, __la acción principal (CTA)__ bien visible que invita a descargar la aplicación, y otro botón al final de la página (que posiblemente no hiciera falta, pues la página no es tan extesa, ni está recargada con elementos que hagan perder el botón principal). 
-- Tras un primer impacto visual nada más entrar a la página, en la __sección de beneficios__ se refuerza la idea que quiere transmitir la app apoyándonos con imágenes representativas extraídas de <a href="https://undraw.co/" target="_blank">Undraw</a>, que ofrece diseños con cualquier color que se indique, por lo que se adaptan perfectamente a cualquier paleta de colores.
-
-
 En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil y sobre todo en la simulación podemos ver claramente algunos (se han extraídos de <a href="http://www.welie.com/patterns/">welie</a> y <a href="http://ui-patterns.com/patterns">ui-patterns</a>):
-
-
-- Resalta un __título y subtítulo atractivos__ para llamar la atención, tras una imagen representativa de Granada. 
-- Justo debajo, __la acción principal (CTA)__ bien visible que invita a descargar la aplicación, y otro botón al final de la página (que posiblemente no hiciera falta, pues la página no es tan extesa, ni está recargada con elementos que hagan perder el botón principal). 
-- Tras un primer impacto visual nada más entrar a la página, en la __sección de beneficios__ se refuerza la idea que quiere transmitir la app apoyándonos con imágenes representativas extraídas de <a href="https://undraw.co/" target="_blank">Undraw</a>, que ofrece diseños con cualquier color que se indique, por lo que se adaptan perfectamente a cualquier paleta de colores.
-
-
-+ __MontSerrat__, una fuente sans-serif que gana mucho en sus variantes de más peso (como medium, semi-bold o bold) por lo que la usamos mayoritariamente para títulos, encabezados y algunos botones.
 * __Navegación__: usamos principalmente navegación mediante barra inferior para saltar a los apartados que más se van a usar, saltos en la jerarquía desde el logo (**Bottom Navigation Bar**, **Home Link**)
 * **Contenido**: cartas de contenido para presentar cada actividad en el listado de actividades durante la búsqueda, posibildad de seleccionar una fecha en el calendario de filtros de actividades, un scroll continuo para contenidos que no caben en una sola página (**Cards**,**Calendar Picker**,**Continuous Scrolling**)
 * Búsqueda: barra de búsqueda persistente (con el campo de texto siempre visible), y filtrado de resultados (**Search Box**, **Search Filter**)
