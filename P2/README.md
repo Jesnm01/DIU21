@@ -18,11 +18,11 @@
 
 ### PROPUESTA DE VALOR
 
-<p align="justify">Nuestro proyecto consistirá en crear un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Cualquier usuario podrá buscar actividades de su interés, grupos a los que unirse, crear un grupo, etc. Y además, incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro de actividades por si los administradores de la página u otro usuario pueden llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
+<p align="justify">Nuestro proyecto consistirá en crear una aplicación clara, sencilla y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada. Cualquier usuario podrá buscar actividades de su interés, grupos a los que unirse, crear un grupo, etc. Y además, incluiremos la opción de que un usuario pueda crear una actividad o proponerla en el foro de actividades por si los administradores de la página u otro usuario pueden llevarla a cabo. También existirá la posibilidad de pedir ser guía de una actividad para aquellos usuarios interesados (es una buena oportunidad para estudiantes de turismo).  </p>
 
 <p align="justify"> Dicho foro de actividades, aparte de recoger las propuestas de los usuarios, actuará a modo de tablón de anuncios dónde apareceran las actividades más próximas a su fin. </p> 
 
-<p align="justify">Los usuarios pueden registrarse para beneficiarse de una interfaz sencilla en la que podrán ver sus actividades, grupos, amigos, perfil y mensajería.</p>
+<p align="justify">Los usuarios pueden registrarse para beneficiarse de un perfil de usuario sencillo en el que podrán ver sus actividades, grupos, amigos, perfil y mensajería.</p>
 
 <p align="justify">Respecto a la ayuda al cliente, contaremos con varios asistentes en línea 24/7 que los usuarios podrán solicitar para solventar sus problemas. Además, contaremos con un e-mail de contacto y varios números de teléfono. También existirá un espacio que recoja las dudas más frecuentes de los usuarios.</p>
 
@@ -107,5 +107,4 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 ### Conclusiones  
 
-Esta etapa nos ha parecido más interesante que la anterior dado que empiezas a trabajar con ideas propias y no sobre una aplicación que ya está hecha. Nos hemos dado cuenta de que realizar una aplicación (conceptualmente) no es tan sencillo cómo parece a priori. Tienes que valorar cómo interpretará el usuario si colocas cierta cosa en un sitio u otro ... En resumen, nos ha parecido una práctica interesante para introducirnos en desarrollo de una aplicación.
-
+Esta etapa nos ha parecido más interesante que la anterior dado que empiezas a trabajar con ideas propias y no sobre una aplicación que ya está hecha. Nos hemos dado cuenta de que realizar una aplicación (conceptualmente) no es tan sencillo cómo parece a priori ya que se tienen que valorar muchos aspectos de cara al usuario. En resumen, hemos realizado un primer acercamiento a la estructura y el bocetado, recogiendo informacion sentando las bases de la finalidad de nuestra aplicación,
