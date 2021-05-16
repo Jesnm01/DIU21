@@ -56,13 +56,13 @@ Principalmente utilizamos 2 estilos de fuente:
 <h3><strong>Patrones de Diseño</strong></h3>
 <p>En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil y sobre todo en la simulación podemos ver claramente algunos (se han extraídos de <a href="http://www.welie.com/patterns/">welie</a> y <a href="http://ui-patterns.com/patterns">ui-patterns</a>): </p>
 
-- **Navegación**: usamos principalmente navegación mediante barra inferior para saltar a los apartados que más se van a usar, saltos en la jerarquía desde el logo (**Bottom Navigation Bar**, **Home Link**)
-- **Contenido**: cartas de contenido para presentar cada actividad en el listado de actividades durante la búsqueda, posibildad de seleccionar una fecha en el calendario de filtros de actividades, un scroll continuo para contenidos que no caben en una sola página (**Cards**,**Calendar Picker**,**Continuous Scrolling**)
-- Búsqueda: barra de búsqueda persistente (con el campo de texto siempre visible), y filtrado de resultados (**Search Box**, **Search Filter**)
-- **Interacción básica**: botones que realizan acciones concretas como cambiar de página o reservar una actividad, y el deslizado de imágenes en el home (**Action Button**, **Slideshow**)
-- **Onboarding**: creación de una cuenta o inicio de sesión (**Account Registration**, **Sign In**)
-- **Selector de idiomas**: (**Language Selector**)
-- **Interacción social**: posibilidad de añadir amigos en la aplicacion, darle me gusta a una actividad concreta, y compartir la actividad en redes sociales (**Friends**, **Reaction**, **Auto-Sharing**)
+- **Navegación**: usamos principalmente navegación mediante barra inferior para saltar a los apartados que más se van a usar, saltos en la jerarquía desde el logo (**_Bottom Navigation Bar_**, **_Home Link_**)
+- **Contenido**: cartas de contenido para presentar cada actividad en el listado de actividades durante la búsqueda, posibildad de seleccionar una fecha en el calendario de filtros de actividades, un scroll continuo para contenidos que no caben en una sola página (**_Cards_**, **_Calendar Picker_**, **_Continuous Scrolling_**)
+- Búsqueda: barra de búsqueda persistente (con el campo de texto siempre visible), y filtrado de resultados (**_Search Box_**, **_Search Filter_**)
+- **Interacción básica**: botones que realizan acciones concretas como cambiar de página o reservar una actividad, y el deslizado de imágenes en el home (**_Action Button_**, **_Slideshow_**)
+- **Onboarding**: creación de una cuenta o inicio de sesión (**_Account Registration_**, **_Sign In_**)
+- **Selector de idiomas**: (**_Language Selector_**)
+- **Interacción social**: posibilidad de añadir amigos en la aplicacion, darle me gusta a una actividad concreta, y compartir la actividad en redes sociales (**_Friends_**, **_Reaction_**, **_Auto-Sharing_**)
 
 ## Mockup: LAYOUT HI-FI
 
