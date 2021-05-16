@@ -9,7 +9,7 @@
 
 
 ## Landing Page
-<p align="justify"> Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional que tiene un propósito claro: atraer a gente a la aplicación demostrando sus principales características:</p>
+<p align="justify"> Diseñamos ahora, ya con el estilo visual en mente, nuestra landing page promocional que tiene un propósito claro, atraer a gente a la aplicación demostrando sus principales características:</p>
 
 - Resalta un __título y subtítulo atractivos__ para llamar la atención, tras una imagen representativa de Granada. 
 - Justo debajo, __la acción principal (CTA)__ bien visible que invita a descargar la aplicación, y otro botón al final de la página (que posiblemente no hiciera falta, pues la página no es tan extesa, ni está recargada con elementos que hagan perder el botón principal). 
