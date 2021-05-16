@@ -5,14 +5,14 @@ Grupo: DIU3.nmsc  Curso: 2020/21
 Updated: 10/03/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> MeetUs 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Meetus consiste en un aplicación móvil dedicada a la realización de actividades en Granada. Cómo idea innovadora ofrece la posibilidad de crear/unirse a un grupo y crear/reservar/proponer actividades. La finalidad se basa en conocer más a fondo la provincia de Granada y hacerlo en presencia de una gran compañía. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![Logo](P3/Imagenes/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Jesús Navarro Merino   :octocat: ([@Jesnm01](https://github.com/Jesnm01))
