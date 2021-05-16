@@ -69,11 +69,6 @@ Definimos una serie de grupos de usuario y mediante una <a href="https://github.
 ----
 Para aclarar la estructura de la plataforma elaboramos <a href="https://github.com/angelsc21/DIU21/tree/master/P2">Sitemap</a> y describimos las etiquetas de éste en una <a href="https://github.com/angelsc21/DIU21/tree/master/P2">tabla</a>.
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
-
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 Realizamos unos cuantos <a href="https://github.com/angelsc21/DIU21/tree/master/P2">bocetos</a> de la aplicación para tener una primera toma de contacta e idear cómo sería el resultado final. Los bocetos no representan el 100% de la aplicación, elegimos 
