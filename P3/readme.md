@@ -51,10 +51,10 @@ Se puede ver la página en funcionamiento en este enlace <a href="https://meetus
 
 Principalmente utilizamos 2 estilos de fuente:
 * __MontSerrat__, una fuente sans-serif que gana mucho en sus variantes de más peso (como medium, semi-bold o bold) por lo que la usamos mayoritariamente para títulos, encabezados y algunos botones.
-* Noto Sans, otra fuente sans-serif y fácil de leer, que utilizamos para el cuerpo y subtítulos. Es una fuente especialmente diseñada por Google con el objetivo de poder ser usada en cualquier parte del mundo, teniendo soporte para más de 800 lenguas diferentes.
+* __Noto Sans__, otra fuente sans-serif y fácil de leer, que utilizamos para el cuerpo y subtítulos. Es una fuente especialmente diseñada por Google con el objetivo de poder ser usada en cualquier parte del mundo, teniendo soporte para más de 800 lenguas diferentes.
 
 <h3><strong>Patrones de Diseño</strong></h3>
-En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil y sobre todo en la simulación podemos ver claramente algunos (se han extraídos de <a href="http://www.welie.com/patterns/">welie</a> y <a href="http://ui-patterns.com/patterns">ui-patterns</a>):
+
 * __Navegación__: usamos principalmente navegación mediante barra inferior para saltar a los apartados que más se van a usar, saltos en la jerarquía desde el logo (**Bottom Navigation Bar**, **Home Link**)
 * **Contenido**: cartas de contenido para presentar cada actividad en el listado de actividades durante la búsqueda, posibildad de seleccionar una fecha en el calendario de filtros de actividades, un scroll continuo para contenidos que no caben en una sola página (**Cards**,**Calendar Picker**,**Continuous Scrolling**)
 * Búsqueda: barra de búsqueda persistente (con el campo de texto siempre visible), y filtrado de resultados (**Search Box**, **Search Filter**)
