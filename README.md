@@ -28,7 +28,7 @@ Miembros
 -----
 
 <p align="justify>
-Antes de desarrollar MeetUs realizamos la comparación de varias plataformas que competían entre ellas (Civitatis, SpainInfo, BuscoUnViaje). Nos acabamos quedando por civitatis concluyendo que era la más completa (más información sobre la decisión <a href="https://github.com/angelsc21/DIU21/tree/master/P1">Milanote</a>. 
+Antes de desarrollar MeetUs realizamos la comparación de varias plataformas que competían entre ellas (Civitatis, SpainInfo, BuscoUnViaje). Nos acabamos quedando por civitatis concluyendo que era la más completa (más información sobre la decisión <a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a>. 
 </p> 
 
 ![Método UX](img/Persona.png) 1.b Persona
