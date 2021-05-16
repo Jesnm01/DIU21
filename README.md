@@ -34,7 +34,9 @@ Antes de desarrollar MeetUs realizamos la comparación de varias plataformas que
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+<p align="justify">
+Usamos 2 perfiles de usuario totalmente distintos para tratar de averiguar las carencias de Civitatis. Por un lado tenemos a Pedro (padre de familia, torpe tecnológicamente hablando, viaje familiar ...) y por otro a Irene (universitaria, poco dinero, viaje con amigas ...). Descubrimos una serie de errores que puedes descubrir <a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a>
+</p> 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
