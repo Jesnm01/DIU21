@@ -53,25 +53,12 @@ Realizamos un análisis exhaustivo de Civitatis para distinguir sus puntos fuert
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+A través de una <a href="https://github.com/angelsc21/DIU21/tree/master/P2">malla receptora</a> de información recopilamos los puntos más interesantes, críticas, preguntas y posibles nuevas ideas.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+Cómo propuesta de valor definimos que nuestro proyecto consistirá en un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada solos o en disfruntando de la mejor compañía. Si quieres entrar más en detalle acerca de la propuesta y el tablón Scope Canvas entre <a href="https://github.com/angelsc21/DIU21/tree/master/P2">aquí</a>
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
