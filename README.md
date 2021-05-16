@@ -35,22 +35,16 @@ Antes de desarrollar MeetUs realizamos la comparación de varias plataformas que
 -----
 
 <p align="justify">
-Usamos 2 perfiles de usuario totalmente distintos para tratar de averiguar las carencias de Civitatis. Por un lado tenemos a Pedro (padre de familia, torpe tecnológicamente hablando, viaje familiar ...) y por otro a Irene (universitaria, poco dinero, viaje con amigas ...). Descubrimos una serie de errores que puedes descubrir <a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a>
+Usamos 2 perfiles de usuario totalmente distintos que usaremos en el siguiente apartado para tratar de averiguar las carencias de Civitatis. Por un lado tenemos a Pedro (padre de familia, torpe tecnológicamente hablando, viaje familiar ...) y por otro a Irene (universitaria, poco dinero, viaje con amigas ...). Puedes descubrir más características de ellos <a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a>.
 </p> 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+En la búsqueda de errores creamos 2 experiencias de usuario con las personas ficticias que tenemos creadas. Si quieres ver cómo acabó pincha <a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a>.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Realizamos un análisis exhaustivo de Civitatis para distinguir sus puntos fuertes y sus debilidades. Acabó con una valoración de 79/100, los detalles del estudio se encuentran <a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a><a href="https://github.com/angelsc21/DIU21/tree/master/P1">aquí</a>.
 
 
 ## Paso 2. UX Design  
