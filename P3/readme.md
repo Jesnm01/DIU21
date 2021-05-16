@@ -76,7 +76,7 @@ Principalmente utilizamos 2 estilos de fuente:
 
 | Actividades | Descripcion Actividad |
 |---|---|
-| ![](Imagenes/Actividades.png)  | ![](Imagenes/Descripcion_Actividad.png)  |
+| ![](Imagenes/Actividades.png)  | ![](Imagenes/Descripción_Actividad.png)  |
 
 ## Simulación
 
