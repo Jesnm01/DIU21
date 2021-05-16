@@ -70,11 +70,11 @@ En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil
 |---|---|---|
 | ![](Imagenes/Portada.png)  | ![](Imagenes/SignUp.png)  | ![](Imagenes/SignIn.png)  |
 
-| Perfil | Grupos | 
+| Perfil | Explorar Grupos | 
 |---|---|
 | ![](Imagenes/Perfil.png)  | ![](Imagenes/Grupos.png)  | 
 
-| Actividades | Descripcion Actividad |
+| Explorar Actividades | Descripcion Actividad |
 |---|---|
 | ![](Imagenes/Actividades.png)  | ![](Imagenes/Descripción_Actividad.png)  |
 
