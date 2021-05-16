@@ -41,7 +41,7 @@ Se puede ver la página en funcionamiento en este enlace <a href="https://meetus
 
 <h3><strong>Paleta de Colores</strong></h3>
 
-<p align="justify">Para la paleta de colores optamos en primera instancia por unos tonos verdosos, pero rápidamente vimos que no era muy atractivo a la vista. Optamos por tanto como <strong>color primario</strong> que usaremos para la barra de navegación inferior y la barra superior, un <strong>color cálido</strong> con tonos amarillos/marrones representando el material de múltiples construcciones en Granada, cómo por ejemplo la Alhambra; delegando así el uso del verde claro y el azul como <strong>colores secundarios</strong> para otros componentes como botones, barras de deslizamiento, o algunos encabezados.</p>
+<p align="justify">Para la paleta de colores optamos en primera instancia por unos tonos verdosos, pero rápidamente vimos que no era muy atractivo a la vista. Optamos por tanto como <strong>color primario</strong> que usaremos para la barra de navegación inferior y la barra superior, un <strong>color cálido</strong> con tonos amarillos/marrones representando el material de múltiples construcciones en Granada, cómo por ejemplo la Alhambra; delegando así el uso del verde claro y el azul como <strong>colores secundarios</strong> para otros componentes como botones, barras de deslizamiento, o algunos encabezados tal y como indica <a href="https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=F5DDA6&secondary.color=BEF4A7">esta herramienta de Google</a>.</p>
 
 <h3><strong>Iconografía</strong></h3>
 
@@ -50,11 +50,17 @@ Se puede ver la página en funcionamiento en este enlace <a href="https://meetus
 <h3><strong>Tipografía</strong></h3>
 
 Principalmente utilizamos 2 estilos de fuente:
--**MontSerrat**, una fuente sans-serif que gana mucho en sus variantes de más peso (como medium, semi-bold o bold) por lo que la usamos mayoritariamente para títulos, encabezados y algunos botones.
--**Noto Sans**, otra fuente sans-serif y fácil de leer, que utilizamos para el cuerpo y subtítulos. Es una fuente especialmente diseñada por Google con el objetivo de poder ser usada en cualquier parte del mundo, teniendo soporte para más de 800 lenguas diferentes.
++ **MontSerrat**, una fuente sans-serif que gana mucho en sus variantes de más peso (como medium, semi-bold o bold) por lo que la usamos mayoritariamente para títulos, encabezados y algunos botones.
++ **Noto Sans**, otra fuente sans-serif y fácil de leer, que utilizamos para el cuerpo y subtítulos. Es una fuente especialmente diseñada por Google con el objetivo de poder ser usada en cualquier parte del mundo, teniendo soporte para más de 800 lenguas diferentes.
 
 <h3><strong>Patrones de Diseño</strong></h3>
-
+En cuanto a los patrones de diseño, en nuestros mockups de la aplicacion móvil y sobre todo en la simulación podemos ver claramente algunos (se han extraídos de <a href="http://www.welie.com/patterns/">welie</a> y <a href="http://ui-patterns.com/patterns">ui-patterns</a>):
++ **Navegación**: usamos principalmente navegación mediante barra inferior para saltar a los apartados que más se van a usar, saltos en la jerarquía desde el logo (**Bottom navigation**, **Home Link**)
++ **Contenido**: cartas de contenido para presentar cada actividad en el listado de actividades durante la búsqueda (**Cards**,****,****)
++ **Búsqueda**: barra de búsqueda persistente (con el campo de texto siempre visible), y filtrado de resultados (**Search Box**, **Search Filter**)
++ **Interacción básica**: botones que realizan acciones concretas como cambiar de página o reservar una actividad, y el deslizado de imágenes en el home (**Action Button**, **Slideshow**)
++ **Onboarding**: creación de una cuenta o inicio de sesión (**Account Registration**, **Sign In**)
++ **Selector de idiomas**: (**Language Selector**)
 
 ## Mockup: LAYOUT HI-FI
 
