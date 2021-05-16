@@ -62,15 +62,12 @@ Cómo propuesta de valor definimos que nuestro proyecto consistirá en un sitio 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
+Definimos una serie de grupos de usuario y mediante una <a href="https://github.com/angelsc21/DIU21/tree/master/P2">tabla</a> reflejamos la frecuencia con la que realizan 'x' acciones de la aplicación.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
+Para aclarar la estructura de la plataforma elaboramos <a href="https://github.com/angelsc21/DIU21/tree/master/P2">Sitemap</a> y describimos las etiquetas de éste en una <a href="https://github.com/angelsc21/DIU21/tree/master/P2">tabla</a>.
 
 Término | Significado     
 | ------------- | -------
@@ -79,46 +76,34 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+Realizamos unos cuantos <a href="https://github.com/angelsc21/DIU21/tree/master/P2">bocetos</a> de la aplicación para tener una primera toma de contacta e idear cómo sería el resultado final. Los bocetos no representan el 100% de la aplicación, elegimos 
+los de mayor uso para ver cómo quedaría.
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Diseñamos un <a href="https://github.com/angelsc21/DIU21/tree/master/P3">moodbard</a> que va a sentar las bases de la apariencia visual de nuestra aplicación en cuanto a colores, tipografías y set de iconos entre otras cosas.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
-
->>> Plantear Landing Page 
+A modo de página llamativa para atraer a usuarios creamos una <a href="https://github.com/angelsc21/DIU21/tree/master/P3">Landing Page</a>.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Puedes mirar los guidelines y patrones seguidos para crear la aplicación <a href="https://github.com/angelsc21/DIU21/tree/master/P3">aquí</a>.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Pasamos de los bocetos anteriores a unos diseños realistas de la aplicación con colores ... Puedes ver los diseños y un vídeo demostrativo <a href="https://github.com/angelsc21/DIU21/tree/master/P3">aquí</a>.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Hacemos una <a href="https://github.com/angelsc21/DIU21/tree/master/P3">valoración</a> acerca de qué nos ha parecido esta práctica y los problemas que nos han surgido.
 
 
 ## Paso 4. Evaluación 
