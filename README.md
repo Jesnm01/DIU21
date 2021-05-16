@@ -58,7 +58,7 @@ A través de una <a href="https://github.com/angelsc21/DIU21/tree/master/P2">mal
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-Cómo propuesta de valor definimos que nuestro proyecto consistirá en un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada solos o en disfruntando de la mejor compañía. Si quieres entrar más en detalle acerca de la propuesta y el tablón Scope Canvas entre <a href="https://github.com/angelsc21/DIU21/tree/master/P2">aquí</a>
+Cómo propuesta de valor definimos que nuestro proyecto consistirá en un sitio web claro, sencillo y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada solos o en disfruntando de la mejor compañía. Si quieres entrar más en detalle acerca de la propuesta y el tablón Scope Canvas entre <a href="https://github.com/angelsc21/DIU21/tree/master/P2">aquí</a>.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
