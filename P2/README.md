@@ -107,4 +107,4 @@ Leyenda : B (Baja), M(Media), A(Alta), No(No Permitido)  <br>
 
 ### Conclusiones  
 
-Esta etapa nos ha parecido más interesante que la anterior dado que empiezas a trabajar con ideas propias y no sobre una aplicación que ya está hecha. Nos hemos dado cuenta de que realizar una aplicación (conceptualmente) no es tan sencillo cómo parece a priori ya que se tienen que valorar muchos aspectos de cara al usuario. En resumen, hemos realizado un primer acercamiento a la estructura y el bocetado, sentando además los objetivos principales de nuestra aplicación
+Esta etapa nos ha parecido más interesante que la anterior dado que empiezas a trabajar con ideas propias y no sobre una aplicación que ya está hecha. Nos hemos dado cuenta de que realizar una aplicación (conceptualmente) no es tan sencillo cómo parece a priori ya que se tienen que valorar muchos aspectos de cara al usuario. En resumen, hemos realizado un primer acercamiento a la estructura y el bocetado, sentando además los objetivos principales de nuestra aplicación.
