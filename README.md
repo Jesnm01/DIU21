@@ -1,16 +1,16 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Experiencias y planificación de ocio) 
 
 Grupo: DIU3.nmsc  Curso: 2020/21 
-Updated: 10/03/2021
+Updated: 15/05/2021
 
 Proyecto: MeetUs
 
 Descripción:
 
-Meetus consiste en un aplicación móvil dedicada a la realización de actividades en Granada. Cómo idea innovadora ofrece la posibilidad de crear/unirse a un grupo y crear/reservar/proponer actividades. La finalidad se basa en conocer más a fondo la provincia de Granada y hacerlo en presencia de una gran compañía. 
+Meetus consiste en un aplicación móvil dedicada a la realización de actividades en Granada. Permite a los usuarios crear, organizar, participar, y proponer actividades de todo tipo, formando grupos con otras personas con los mismos intereses y gustos. La finalidad se basa en conocer más a fondo la provincia de Granada y hacerlo en presencia de una gran compañía. 
 
-Logotipo: 
+Logotipo:
 
 ![Logo](P3/Imagenes/logo.png)
 
