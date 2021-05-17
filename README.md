@@ -71,8 +71,7 @@ Para aclarar la estructura de la plataforma elaboramos <a href="https://github.c
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-Realizamos unos cuantos <a href="https://github.com/angelsc21/DIU21/tree/master/P2">bocetos</a> de la aplicación para tener una primera toma de contacta e idear cómo sería el resultado final. Los bocetos no representan el 100% de la aplicación, elegimos 
-los de mayor uso para ver cómo quedaría.
+Realizamos unos cuantos <a href="https://github.com/angelsc21/DIU21/tree/master/P2">bocetos</a> de la aplicación para tener una primera toma de contacto e idear cómo sería el resultado final. Los bocetos no representan el 100% de la aplicación, puesto que faltan algunas pantallas, pero elegimos los de mayor uso para ver el resultado.
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
