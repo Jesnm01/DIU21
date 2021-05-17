@@ -58,46 +58,47 @@ A través de una <a href="https://github.com/angelsc21/DIU21/tree/master/P2">mal
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-Cómo propuesta de valor definimos que nuestro proyecto consistirá en una aplicación clara, sencilla y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada solos o disfruntando de la mejor compañía. Si quieres entrar más en detalle acerca de la propuesta y el tablón Scope Canvas entre <a href="https://github.com/angelsc21/DIU21/tree/master/P2">aquí</a>.
+Cómo propuesta de valor definimos que nuestro proyecto consistirá en una aplicación clara, sencilla y funcional para todos aquellos usuarios que deseen realizar actividades en la provincia de Granada solos o disfruntando de la mejor compañía. Si quieres entrar más en detalle acerca de la propuesta y el tablón Scope Canvas entre <a href="https://github.com/angelsc21/DIU21/tree/master/P2#propuesta-de-valor">aquí</a>.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-Definimos una serie de grupos de usuario y mediante una <a href="https://github.com/angelsc21/DIU21/tree/master/P2">tabla</a> reflejamos la frecuencia con la que realizan 'x' acciones de la aplicación.
+Creamos una <a href="https://github.com/angelsc21/DIU21/tree/master/P2#task-analysis">Task Matrix</a> definiendo una serie de grupos de usuario y reflejamos la frecuencia con la que se realizan según qué acciones dentro de la aplicación, averiguando así las de mayor importancia.
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-Para aclarar la estructura de la plataforma elaboramos <a href="https://github.com/angelsc21/DIU21/tree/master/P2">Sitemap</a> y describimos las etiquetas de éste en una <a href="https://github.com/angelsc21/DIU21/tree/master/P2">tabla</a>.
+Para tener clara la estructura de la aplicación elaboramos el <a href="https://github.com/angelsc21/DIU21/tree/master/P2#arquitectura-de-informaci%C3%B3n">Sitemap</a>, que nos ayuda a visualizar la jerarquía de páginas y definir la navegabilidad entre ellas. 
+Describimos también las etiquetas que representan cada sección de la aplicación en esta <a href="https://github.com/angelsc21/DIU21/tree/master/P2">tabla</a>.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-Realizamos unos cuantos <a href="https://github.com/angelsc21/DIU21/tree/master/P2">bocetos</a> de la aplicación para tener una primera toma de contacto e idear cómo sería el resultado final. Los bocetos no representan el 100% de la aplicación, puesto que faltan algunas pantallas, pero elegimos los de mayor uso para ver el resultado.
+Y ya para finalizar esta fase de diseño preliminar y estructuración, realizamos unos cuantos <a href="https://github.com/angelsc21/DIU21/tree/master/P2#prototipo-lo-fi-wireframe">bocetos</a> de la aplicación para tener una primera toma de contacto e idear cómo sería el resultado final. Los bocetos no representan el 100% de la aplicación, puesto que faltan algunas pantallas, pero elegimos los de mayor uso para ver el resultado.
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-Diseñamos un <a href="https://github.com/angelsc21/DIU21/tree/master/P3">moodbard</a> que va a sentar las bases de la apariencia visual de nuestra aplicación en cuanto a colores, tipografías y set de iconos entre otras cosas.
+Diseñamos un <a href="https://github.com/angelsc21/DIU21/tree/master/P3#moodboard-dise%C3%B1o-visual--logotipo">moodbard</a> que va a sentar las bases de la apariencia visual de nuestra aplicación en cuanto a colores, tipografías y set de iconos entre otras cosas.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-A modo de página llamativa para atraer a usuarios creamos una <a href="https://github.com/angelsc21/DIU21/tree/master/P3">Landing Page</a>.
+A modo de página llamativa para atraer a usuarios creamos una <a href="https://github.com/angelsc21/DIU21/tree/master/P3#landing-page">Landing Page</a>.
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+![Método UX](img/guidelines.png) 3.c Guidelines y Patrones de Diseño
 ----
-Puedes mirar los guidelines y patrones seguidos para crear la aplicación <a href="https://github.com/angelsc21/DIU21/tree/master/P3">aquí</a>.
+Puedes mirar los guidelines y patrones seguidos para crear la aplicación <a href="https://github.com/angelsc21/DIU21/tree/master/P3#guidelines-y-patrones-de-dise%C3%B1o">aquí</a>.
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](img/mockup.png)  3.d Mockup y simulación
 ----
 
-Pasamos de los bocetos anteriores a unos diseños realistas de la aplicación con colores ... Puedes ver los diseños y un vídeo demostrativo <a href="https://github.com/angelsc21/DIU21/tree/master/P3">aquí</a>.
+Pasamos de los bocetos anteriores a unos diseños realistas de la aplicación con colores ... Puedes ver los diseños y un vídeo demostrativo <a href="https://github.com/angelsc21/DIU21/tree/master/P3#mockup-layout-hi-fi">aquí</a>.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-Hacemos una <a href="https://github.com/angelsc21/DIU21/tree/master/P3">valoración</a> acerca de qué nos ha parecido esta práctica y los problemas que nos han surgido.
+Hacemos una <a href="https://github.com/angelsc21/DIU21/tree/master/P3#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study">valoración</a> acerca de qué nos ha parecido esta práctica y los problemas que nos han surgido.
 
 
 ## Paso 4. Evaluación 
