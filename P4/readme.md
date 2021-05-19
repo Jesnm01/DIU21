@@ -7,7 +7,8 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 |  IdUsuaro | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Cubierto | Test | SUS Score |
 |---|---|---|---|---|---|---|---|
-|1|2|3|4|5|6|7|8| 
+| 1 | Mujer (23) | Estudiante | Media/Alta | App Móvil | Tipo: 1 <br>Actividad: 5 <br>Estado: Sorprendida| 7 | 8 | 
+| 2 | Hombre (45) | Mecánico de Camiones | Baja | Windows | Tipo: 1 <br>Actividad: 3 <br>Estado: Sorprendida| 6 | 1 | 
 
 ## Caso 1
 
