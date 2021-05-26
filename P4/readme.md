@@ -32,7 +32,7 @@ Se trata de una página sencilla, clara e intuitiva dónde poder elegir y planif
 
 https://github.com/angelsc21/DIU21/blob/master/P4/Cuestionario.pdf
 
-<p  align="center"><img src="cuestionario_sus.png"></img></p>
+<p  align="center"><img src="imagen_cuestionario.PNG"></img></p>
 
 
 <h3>Recomendaciones</h3>
