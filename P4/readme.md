@@ -23,10 +23,10 @@ Se trata de una página sencilla, clara e intuitiva dónde poder elegir y planif
 
 <h3>Personajes</h3>
 
-|  IdUsuaro | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Cubierto | Test | SUS Score |
+|  IdUsuaro | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Perfil | Test | SUS Score |
 |---|---|---|---|---|---|---|---|
-| 1 | Mujer (23) | Estudiante | Media/Alta | App Móvil | Tipo: 1 <br>Actividad: 5 <br>Estado: Sorprendida| 7 | 8 | 
-| 2 | Hombre (45) | Mecánico de Camiones | Baja | Windows | Tipo: 3 <br>Actividad: 3 <br>Estado: Enfadado| 6 | 1 | 
+| Julián | Hombre (57) | Encargado Ferretería | Baja/Media | App Móvil | Rellenar | MeetUs | 70 | 
+| María Isabel | Mujer (43) | Dueña de una Papelería | Media | App Móvil | Rellenar | MeetUs | 80 |
 
 <h3>Cuestionario SUS</h3>
 
