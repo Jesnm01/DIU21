@@ -25,10 +25,10 @@ Se trata de una página sencilla, clara e intuitiva dónde poder elegir y planif
 
 |  IdUsuaro | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Perfil | Test | SUS Score |
 |---|---|---|---|---|---|---|---|
-| Julián | Hombre (57) | Encargado Ferretería | Baja/Media | App Móvil | Rellenar | MeetUs | 70 | 
-| María Isabel | Mujer (43) | Dueña de una Papelería | Media | App Móvil | Rellenar | MeetUs | 80 |
-| David | Hombre (20) | Estudiante INEF UGR | Baja/Media | App Móvil | Rellenar | EasyTrip | 62.5 | 
-| Cristina | Mujer (34) | Fotógrafa Profesional | Alta | App Móvil | Rellenar | EasyTrip | 75 |
+| Julián | Hombre (57) | Encargado Ferretería | Baja/Media | App Móvil | Julián es un enamorado de la gastronomía andaluza y solía recorrerse las provincias de restaurante en restaurante con su mujer. Desgraciadamente falleció hace 1 año y dejó este hobbie. Recientemente se ha animado a retomar su pasión,  está en busca de personas que la compartan y de nuevos destinos culinarios. | MeetUs | 70 | 
+| María Isabel | Mujer (43) | Dueña de una Papelería | Media | App Móvil | María Isabel es poseedora de una pequeña papelería en la capital de Granada, es introvertida y no le gusta estar rodeada de un gran número de personas. Uno de sus objetivos personales es revivir la historia de la antigua capital nazarí recorriendo aquellos lugares históricos de los que tanto ha leído en los libros. | MeetUs | 80 |
+| David | Hombre (20) | Estudiante INEF UGR | Baja/Media | App Móvil | David es un chico muy activo físicamente que le encanta conocer mundo y este año está de Erasmus en Crackovia (Polonia). En los fines de semana que tenga más libre le gustaría hacer una escapada a países de la zona (Centro Europa) para seguir descubriendo nuevas culturas, arte … | EasyTrip | 62.5 | 
+| Cristina | Mujer (34) | Fotógrafa Profesional | Alta | App Móvil | Cristina es una apasionada de la fotografía que trabaja para National Geographic y es la encargada de organizar los viajes del equipo de grabación. Cada 2 o 3 semanas necesitan hacer un viaje a un país distinto para la elaboración de un nuevo programa.  | EasyTrip | 75 |
 
 <h3>Cuestionario SUS</h3>
 
