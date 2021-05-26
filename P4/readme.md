@@ -4,9 +4,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 <h1 align="center">Informe de Usabilidad</h1>
 
-<p> Aqui iría una fotillo </p>
-
-<h1 align="center">Prototipo Web / Equipo: </h1>
+<h1 align="center">Prototipo Web / Equipo: DIU1_PARAGUAS</h1>
 <p align="center">https://github.com/meryuree/DIU21</p>
 
 
@@ -18,8 +16,10 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 Se trata de una página sencilla, clara e intuitiva dónde poder elegir y planificar un viaje inolvidable en sólo 5 pasos.
 
 <h3>Resumen Ejecutivo</h3>
+El equipo DIU3_nmsc se ha encargado de elaborar el prototipo objeto de este test de usabilidad. Contamos con la participación de 4 usuarios que están descritos más adelante. El propósito de este test es cuantificar la usabilidad de nuestro propio sitio web y el de nuestros compañeros DIU1_PARAGUAS. 
 
 <h3>Metodología</h3>
+Para desarrollar este test hemos escogido 4 personas reales con perfiles bien diferenciados. Para nuestra aplicación (MeetUs) utilizaremos a Julián y María Isabel que testearan nuestra aplicación 
 
 <h3>Personajes</h3>
 
