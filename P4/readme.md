@@ -2,6 +2,14 @@
 
 Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
 
+<h1 align="center">Informe de Usabilidad</h1>
+
+<p> Aqui iría una fotillo </p>
+
+<h1 align="center">Prototipo Web / Equipo: </h1>
+https://github.com/meryuree/DIU21
+
+<p align="center"><strong>26/05/2021</strong></p>
 
 <h3>Personajes</h3>
 
