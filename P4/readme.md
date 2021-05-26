@@ -4,9 +4,8 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 <h1 align="center">Informe de Usabilidad</h1>
 
-<h1 align="center">Prototipo Web / Equipo: DIU1_PARAGUAS</h1>
+<h1 align="center">Prototipo Web / Equipo: DIU3_NMSC</h1>
 <p align="center">https://github.com/meryuree/DIU21</p>
-
 
 <p align="center"><strong>26/05/2021</strong></p>
 
@@ -14,12 +13,6 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 <h3>Descripción del Website</h3>
 Se trata de una página sencilla, clara e intuitiva dónde poder elegir y planificar un viaje inolvidable en sólo 5 pasos.
-
-<h3>Resumen Ejecutivo</h3>
-El equipo DIU3_nmsc se ha encargado de elaborar el prototipo objeto de este test de usabilidad. Contamos con la participación de 4 usuarios que están descritos más adelante. El propósito de este test es cuantificar la usabilidad de nuestro propio sitio web y el de nuestros compañeros DIU1_PARAGUAS. 
-
-<h3>Metodología</h3>
-Para desarrollar este test hemos escogido 4 personas reales con perfiles bien diferenciados. Para nuestra aplicación (MeetUs) utilizaremos a Julián y María Isabel que testearan nuestra aplicación 
 
 <h3>Personajes</h3>
 
@@ -29,6 +22,14 @@ Para desarrollar este test hemos escogido 4 personas reales con perfiles bien di
 | María Isabel | Mujer (43) | Dueña de una Papelería | Media | App Móvil | María Isabel es poseedora de una pequeña papelería en la capital de Granada, es introvertida y no le gusta estar rodeada de un gran número de personas. Uno de sus objetivos personales es revivir la historia de la antigua capital nazarí recorriendo aquellos lugares históricos de los que tanto ha leído en los libros. | MeetUs | 80 |
 | David | Hombre (20) | Estudiante INEF UGR | Baja/Media | App Móvil | David es un chico muy activo físicamente que le encanta conocer mundo y este año está de Erasmus en Crackovia (Polonia). En los fines de semana que tenga más libre le gustaría hacer una escapada a países de la zona (Centro Europa) para seguir descubriendo nuevas culturas, arte … | EasyTrip | 62.5 | 
 | Cristina | Mujer (34) | Fotógrafa Profesional | Alta | App Móvil | Cristina es una apasionada de la fotografía que trabaja para National Geographic y es la encargada de organizar los viajes del equipo de grabación. Cada 2 o 3 semanas necesitan hacer un viaje a un país distinto para la elaboración de un nuevo programa.  | EasyTrip | 75 |
+
+
+
+<h3>Resumen Ejecutivo</h3>
+El equipo DIU3_nmsc se ha encargado de elaborar el prototipo objeto de este test de usabilidad. Contamos con la participación de 4 usuarios que están descritos más adelante. El propósito de este test es cuantificar la usabilidad de nuestro propio sitio web y el de nuestros compañeros DIU1_PARAGUAS. 
+
+<h3>Metodología</h3>
+Para desarrollar este test hemos escogido 4 personas reales con perfiles bien diferenciados. Para nuestra aplicación (MeetUs) utilizaremos a Julián y María Isabel que testearan nuestra aplicación 
 
 <h3>Cuestionario SUS</h3>
 
