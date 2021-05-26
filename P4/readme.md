@@ -29,6 +29,9 @@ Se trata de una página sencilla, clara e intuitiva dónde poder elegir y planif
 | 2 | Hombre (45) | Mecánico de Camiones | Baja | Windows | Tipo: 3 <br>Actividad: 3 <br>Estado: Enfadado| 6 | 1 | 
 
 <h3>Cuestionario SUS</h3>
+
+https://github.com/angelsc21/DIU21/blob/master/P4/Cuestionario.pdf
+
 <p  align="center"><img src="cuestionarioSUS.png"></img></p>
 
 
