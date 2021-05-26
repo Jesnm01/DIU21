@@ -4,8 +4,8 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 <h1 align="center">Informe de Usabilidad</h1>
 
-<h1 align="center">Prototipo Web / Equipo: DIU3_NMSC</h1>
-<p align="center">https://github.com/meryuree/DIU21</p>
+<h1 align="center">Prototipo Web / Equipo: </h1>
+<p align="center">https://github.com/meryuree/DIU21  DIU1_PARAGUAS</p>
 
 <p align="center"><strong>26/05/2021</strong></p>
 
