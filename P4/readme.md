@@ -11,6 +11,9 @@ https://github.com/meryuree/DIU21
 
 <p align="center"><strong>26/05/2021</strong></p>
 
+
+
+
 <h3>Personajes</h3>
 
 |  IdUsuaro | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Cubierto | Test | SUS Score |
