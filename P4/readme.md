@@ -27,6 +27,8 @@ Se trata de una página sencilla, clara e intuitiva dónde poder elegir y planif
 |---|---|---|---|---|---|---|---|
 | Julián | Hombre (57) | Encargado Ferretería | Baja/Media | App Móvil | Rellenar | MeetUs | 70 | 
 | María Isabel | Mujer (43) | Dueña de una Papelería | Media | App Móvil | Rellenar | MeetUs | 80 |
+| David | Hombre (20) | Estudiante INEF UGR | Baja/Media | App Móvil | Rellenar | EasyTrip | 62.5 | 
+| Cristina | Mujer (34) | Fotógrafa Profesional | Alta | App Móvil | Rellenar | EasyTrip | 75 |
 
 <h3>Cuestionario SUS</h3>
 
