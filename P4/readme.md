@@ -11,6 +11,8 @@ https://github.com/meryuree/DIU21
 
 <p align="center"><strong>26/05/2021</strong></p>
 
+<img src="pagina-inicio.png"></img>
+
 ![Moodboard](pagina-inicio.png)
 
 
