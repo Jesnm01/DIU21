@@ -11,7 +11,7 @@ https://github.com/meryuree/DIU21
 
 <p align="center"><strong>26/05/2021</strong></p>
 
-
+![Moodboard](pagina-inicio.png)
 
 
 <h3>Personajes</h3>
