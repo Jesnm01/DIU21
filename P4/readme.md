@@ -33,7 +33,7 @@ Puedes ver el documento pdf del UX Case Study [aqui](https://github.com/angelsc2
 
 <h3>Usability Report (Caso B)</h3>
 
-Puedes ver el documento pdf del Usability Report del caso B [aquí](https://github.com/angelsc21/DIU21/blob/master/P4/UsabilityReportB.pdf)
+Puedes ver el documento pdf del Usability Report del caso B [aquí](https://github.com/angelsc21/DIU21/blob/master/P4/P4_UsabReport_EasyTrip_doneby_DIU3_nmsc.pdf)
 
 ## Conclusiones
 Esta práctica nos ha parecido bastante interesante en el sentido de que no es tan fácil juzgar los trabajos de otros. A priori cosas que ellos han pensado que se darían por entendidas, nosotros no las hemos interpretado de la misma manera. Esto hace que nos demos cuenta de lo cuidadoso que tienes que ser con cada detalle de tu producto/proyecto, ya que el usuario puede llegar a pensar muy diferente a lo que lo haría un desarrollador/diseñador. 
