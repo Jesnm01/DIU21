@@ -105,7 +105,7 @@ La plataforma se basa en ofrecer 2 opciones a los clientes:
 	- Viaje personalizado: Es el usuario quién se encarga de decidir los detalles del viaje.
 	- Pack: Viajes ya planificados por la plataforma.
 
-Puedes ver encontrar más información aquí https://github.com/meryuree/DIU21
+Puedes ver encontrar más información de su proyecto en su [repositorio de github](https://github.com/meryuree/DIU21)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -128,24 +128,7 @@ El test A sobre nuestra plataforma lo han realizado Julián y María Isabel. Ha 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Puedes encontrar el Usability Report del Caso B aquí https://github.com/angelsc21/DIU21/blob/master/P4/UsabilityReportB.pdf
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
+Puedes encontrar el Usability Report del Caso B [aquí](https://github.com/angelsc21/DIU21/blob/master/P4/P4_UsabReport_EasyTrip_doneby_DIU3_nmsc.pdf)
 
 
 ## Conclusión final / Valoración de las prácticas
