@@ -99,43 +99,36 @@ Describimos también las etiquetas que representan cada sección de la aplicaci�
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+EasyTrip se trata de una página sencilla, clara e intuitiva dónde poder elegir y planificar un viaje inolvidable en sólo 5 pasos. 
 
+La plataforma se basa en ofrecer 2 opciones a los clientes:
+	- Viaje personalizado: Es el usuario quién se encarga de decidir los detalles del viaje.
+	- Pack: Viajes ya planificados por la plataforma.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+Puedes ver encontrar más información aquí https://github.com/meryuree/DIU21
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+|  IdUsuaro | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Personalidad | Test A/B |
+|---|---|---|---|---|---|---|
+| Julián | Hombre (57) | Encargado Ferretería | Baja/Media | App Móvil  | Extrovertido/Racional | MeetUs | 
+| María Isabel | Mujer (43) | Dueña de una Papelería | Media | App Móvil | Introvertida/Soñadora | MeetUs |
+| David | Hombre (20) | Estudiante INEF UGR | Baja/Media | App Móvil | Atlético/Activo | EasyTrip | 
+| Cristina | Mujer (34) | Fotógrafa Profesional | Alta | App Móvil | Profesional/Activa | EasyTrip |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+El test A sobre nuestra plataforma lo han realizado Julián y María Isabel. Ha servido de apoyo para el test B que lo han hecho David y Cristina. Los resultados han sido:
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+![Método UX](P4/imagen_SUS.PNG)
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal  
+Puedes encontrar el Usability Report del Caso B aquí https://github.com/angelsc21/DIU21/blob/master/P4/UsabilityReportB.pdf
 
 
 ## Paso 5. Evaluación de Accesibilidad  
