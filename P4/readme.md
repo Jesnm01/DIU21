@@ -36,6 +36,6 @@ Puedes ver el documento pdf del UX Case Study [aqui](https://github.com/angelsc2
 Puedes ver el documento pdf del Usability Report del caso B [aquí](https://github.com/angelsc21/DIU21/blob/master/P4/UsabilityReportB.pdf)
 
 ## Conclusiones
-Esta práctica nos ha parecido bastante interesante en cuánto a que no es tan fácil juzgar estos trabajos. También hemos visto que a priori cosas que ellos han pensado que se darían por entendidas, nosotros no las hemos interpretado así. Esto hace que te des cuenta de lo cuidadoso que tienes que ser con cada detalle de tu plataforma y lo diferente que puede llegar a pensar el usuario respecto a ti. 
+Esta práctica nos ha parecido bastante interesante en el sentido de que no es tan fácil juzgar los trabajos de otros. A priori cosas que ellos han pensado que se darían por entendidas, nosotros no las hemos interpretado de la misma manera. Esto hace que nos demos cuenta de lo cuidadoso que tienes que ser con cada detalle de tu producto/proyecto, ya que el usuario puede llegar a pensar muy diferente a lo que lo haría un desarrollador/diseñador. 
 
-Cómo hemos mencionado en la conclusión del Usability Report nos parece que han hecho un buen trabajo adaptado a lo que se pedía en las prácticas a excepción de algunas cosillas que hemos remarcado.
+Cómo hemos mencionado en la conclusión del Usability Report nos parece que han hecho un buen trabajo adaptado a lo que se pedía en las prácticas, a excepción de algunas aspectos que hemos remarcado.
