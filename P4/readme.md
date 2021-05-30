@@ -23,7 +23,7 @@ Se trata de una página sencilla, clara e intuitiva dónde poder elegir y planif
 
 <h3>A/B Testing</h3>
 
-Vemos el resultado del cuestionario SUS, realizado por los personajes. Para ver el cuestionario completo [pulse aquí] (https://github.com/angelsc21/DIU21/blob/master/P4/Cuestionario.pdf)
+Vemos el resultado del cuestionario SUS, realizado por los personajes. Para ver el cuestionario completo [pulse aquí](https://github.com/angelsc21/DIU21/blob/master/P4/Cuestionario.pdf)
 
 <p  align="center"><img src="imagen_SUS.PNG"></img></p>
 
