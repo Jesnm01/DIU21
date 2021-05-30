@@ -109,7 +109,7 @@ Puedes ver encontrar más información de su proyecto en su [repositorio de gith
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
+Para ver la descripción completa de los personajes [pulse aquí](https://github.com/angelsc21/DIU21/tree/master/P4)
 |  IdUsuaro | Sexo/Edad | Ocupación | Exp.TIC | Plataforma | Personalidad | Test A/B |
 |---|---|---|---|---|---|---|
 | Julián | Hombre (57) | Encargado Ferretería | Baja/Media | App Móvil  | Extrovertido/Racional | MeetUs | 
