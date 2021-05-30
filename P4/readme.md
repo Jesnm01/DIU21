@@ -28,7 +28,7 @@ https://github.com/angelsc21/DIU21/blob/master/P4/Cuestionario.pdf
 <p  align="center"><img src="imagen_SUS.PNG"></img></p>
 
 <h3>Tareas realizadas</h3>
-Puedes ver el UX Case Study aquí https://github.com/angelsc21/DIU21/blob/master/P4/UXCaseStudy.pdf
+Puedes ver el documento pdf del UX Case Study [aqui](https://github.com/angelsc21/DIU21/blob/master/P4/UXCaseStudy-review_PARAGUAS.pdf)
 
 <h3>Usability Report (Caso B)</h3>
 Puedes ver el Usability Report del caso B aquí https://github.com/angelsc21/DIU21/blob/master/P4/UsabilityReportB.pdf
