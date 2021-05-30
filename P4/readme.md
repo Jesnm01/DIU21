@@ -1,7 +1,5 @@
 # DIU - Practica 4, entregables
 
-Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
-
 <h1 align="center">Informe de Usabilidad</h1>
 
 <h1 align="center">Prototipo Web / Equipo: </h1>
@@ -30,7 +28,12 @@ https://github.com/angelsc21/DIU21/blob/master/P4/Cuestionario.pdf
 <p  align="center"><img src="imagen_SUS.PNG"></img></p>
 
 <h3>Tareas realizadas</h3>
+Puedes ver el UX Case Study aquí https://github.com/angelsc21/DIU21/blob/master/P4/UXCaseStudy.pdf
 
 <h3>Usability Report (Caso B)</h3>
+Puedes ver el Usability Report del caso B aquí https://github.com/angelsc21/DIU21/blob/master/P4/UsabilityReportB.pdf
 
 ## Conclusiones
+Esta práctica nos ha parecido bastante interesante en cuánto a que no es tan fácil juzgar estos trabajos. También hemos visto que a priori cosas que ellos han pensado que se darían por entendidas, nosotros no las hemos interpretado así. Esto hace que te des cuenta de lo cuidadoso que tienes que ser con cada detalle de tu plataforma y lo diferente que puede llegar a pensar el usuario respecto a ti. 
+
+Cómo hemos mencionado en la conclusión del Usability Report nos parece que han hecho un buen trabajo adaptado a lo que se pedía en las prácticas a excepción de algunas cosillas que hemos remarcado.
