@@ -33,7 +33,7 @@ Puedes ver el documento pdf del UX Case Study [aqui](https://github.com/angelsc2
 
 <h3>Usability Report (Caso B)</h3>
 
-Puedes ver el Usability Report del caso B [aquí](https://github.com/angelsc21/DIU21/blob/master/P4/UsabilityReportB.pdf)
+Puedes ver el documento pdf del Usability Report del caso B [aquí](https://github.com/angelsc21/DIU21/blob/master/P4/UsabilityReportB.pdf)
 
 ## Conclusiones
 Esta práctica nos ha parecido bastante interesante en cuánto a que no es tan fácil juzgar estos trabajos. También hemos visto que a priori cosas que ellos han pensado que se darían por entendidas, nosotros no las hemos interpretado así. Esto hace que te des cuenta de lo cuidadoso que tienes que ser con cada detalle de tu plataforma y lo diferente que puede llegar a pensar el usuario respecto a ti. 
