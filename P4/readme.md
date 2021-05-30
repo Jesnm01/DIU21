@@ -29,16 +29,8 @@ https://github.com/angelsc21/DIU21/blob/master/P4/Cuestionario.pdf
 
 <p  align="center"><img src="imagen_SUS.PNG"></img></p>
 
-<h3>Resumen Ejecutivo</h3>
-El equipo DIU3_nmsc se ha encargado de elaborar el prototipo objeto de este test de usabilidad. Contamos con la participación de 4 usuarios que están descritos más adelante. El propósito de este test es cuantificar la usabilidad de nuestro propio sitio web y el de nuestros compañeros DIU1_PARAGUAS. 
+<h3>Tareas realizadas</h3>
 
-<h3>Metodología</h3>
-Para desarrollar este test hemos escogido 4 personas reales con perfiles bien diferenciados. Para nuestra aplicación (MeetUs) utilizaremos a Julián y María Isabel que testearan nuestra aplicación 
-
-
-<h3>Recomendaciones</h3>
-
-<h3>Conclusión</h3>
-
+<h3>Usability Report (Caso B)</h3>
 
 ## Conclusiones
