@@ -133,8 +133,7 @@ Puedes encontrar el Usability Report del Caso B [aquí](https://github.com/angel
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+El proceso de desarrollo de diseño bajo la metodología UX nos ha supuesto de primeras un gran muro a superar (había que tomar muchas decisiones y no teníamos un claro enfoque de la aplicación), pero conforme hemos ido avanzando y habituándonos al estilo se nos ha hecho muy ameno. Lo que más nos ha gustado ha sido la cercanía respecto al mundo real que hemos experimentado con estas prácticas, dándonos cuentas de todo los elementos que hay que tener en cuenta. Para concluir, creemos haber logrado un buen resultado siguiendo los pasos indicados y estamos muy contentos con la realización de las prácticas.
 
 
 
